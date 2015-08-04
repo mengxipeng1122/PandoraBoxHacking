@@ -6,9 +6,34 @@
 <link rel="stylesheet" href="https://code.jquery.com/mobile/1.2.0/jquery.mobile-1.2.0.min.css">
 <script src="https://code.jquery.com/jquery-1.8.2.min.js"></script>
 <script src="https://code.jquery.com/mobile/1.2.0/jquery.mobile-1.2.0.min.js"></script>
+<style type="text/css">
+#bg {
+  position: fixed; 
+    top: 0; 
+      left: 0; 
+        
+          /* Preserve aspet ratio */
+            min-width: 100%;
+              min-height: 100%;
+}
+body {
+  .ui-page.ui-body-c {
+        background: url(bg.png);
+            background-repeat:no-repeat;
+                background-position:center center;
+                    background-size:cover;  
+  }
+.ui-page {
+background: transparent;
+}
+.ui-content{
+background: transparent;
+}
+</style>
 </head>
 <body>
 <div data-role="page">
+
 
 <div data-role="header">
 <h1>Pandora's Box Jamma arcade PCBs</h1>
@@ -17,14 +42,33 @@
 <div data-role="content">
 <p>Version List</p>
 <ul data-role="listview">
-  <li><a href="#">520 in 1</a></li>
-  <li><a href="#">530 in 1</a></li>
-  <li><a href="#">540 in 1</a></li>
+  <li>
+     <a href="#">
+      <img src="images/pb3.thumbnails.png" />
+      <h3>520 in 1</h3>
+     </a>
+  </li>
+  <li>
+    <a href="#">
+      <img src="images/pb3.thumbnails.png" />
+      <h3>530 in 1</h3>
+    </a>
+  </li>
+  <li>
+    <a href="#">
+      <img src="images/pb3.thumbnails.png" />
+      <h3>540 in 1</h3>
+    </a>
+  </li>
 </ul>
 </div><!-- /content -->
 
 <div data-role="footer">
-<h4>Pandora's Box game card</h4>
+<h4>Contact me at 
+    <a href="mailto:2979776856@qq.com">
+2979776856@qq.com
+    </a>
+</h4>
 </div><!-- /footer -->
 
 </div><!-- /page -->
