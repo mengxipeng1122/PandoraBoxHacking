@@ -15,42 +15,76 @@
 </head> 
 
 <body> 
+
 <div data-role="page" id="home" data-theme="a">
-	<div data-role="content" data-theme="a">
-	<div class="choice_list"> 
-	<h1> Pandora's box  V4</h1> 
-	<h2>   The newest version of Pandora's box is PB4. This version include the following game option. User can enter game option select menu by hold 1P start key and 1P fire 2 key when boards boot. Please note, some game options may not work in CGA mode. </h2> 
-  <!--
-  <div id="logo_image">
-    <img src="images/pb4.logo.png" alt="Image Header"/>
-  </div>
-  -->
-	<ul data-role="listview" data-inset="true" >
-  <!--
-	<li><a href="520in1.html"  data-transition="slidedown"> <img src="images/pb3.thumbnails.png"/> <h3>520 in 1</h3></a></li>
-	<li><a href="530in1.html"  data-transition="slidedown"> <img src="images/pb3.thumbnails.png"/> <h3>530 in 1</h3></a></li>
-	<li><a href="540in1.html"  data-transition="slidedown"> <img src="images/pb3.thumbnails.png"/> <h3>540 in 1</h3></a></li>
-  -->
-	<li><a href="645in1.html" > <img src="images/pb4.thumbnails.png"/> <h3>Pandora's box V4</h3></a></li>
-	<li><a href="51in1.html" > <img src="images/kzbw.thumbnails.png"/> <h3>The King of Air</h3></a></li>
-	</ul>	
+	<div data-role="header"> 
+		<h1> Pandora's box V4 </h1>
+	</div>  <!-- /header -->
 	
-	</div>
-
-	<div id="buy_it_buttons">	
-		<p><a href="http://www.ebay.com/itm/121897503386" rel="external" data-role="button">Buy It Now (eBay)</a></p>
-	</div>	
-	<div id="buy_it_buttons">	
-		<p><a href="http://www.aliexpress.com/item/LITTLE-ELF-jamma-arcade-multi-game-board-540-in-1-games-pcb-multigame-card-VGA-CGA/32419019174.html?spm=2114.10010108.0.170.h04x5p" rel="external" data-role="button">Buy It Now (Aliexpress)</a></p>
-	</div>	
-	<div id="demo_video_buttns">	
+	<div data-role="main" class="ui-content" data-theme="a">
+	  <h1> Pandora's box  V4</h1> 
+	  <h2>   The newest version of Pandora's box is PB4. This version include the following game option. User can enter game option select menu by hold 1P start key and 1P fire 2 key when boards boot. </h2>
+    <h2><strong>Please note, some game options may not work in CGA mode. </strong></h2> 
+	  <div class="choice_list"> 
+	    <ul data-role="listview" data-inset="true" >
+	      <li><a href="#pb4_intro" > <img src="images/pb4.thumbnails.png"/> <h3>Pandora's box V4</h3></a></li>
+	      <li><a href="#kzbw_intro" > <img src="images/kzbw.thumbnails.png"/> <h3>The King of Air</h3></a></li>
+	    </ul>	
+	  </div>
 		<p><a href="https://www.facebook.com/pb3aracde/videos/476557535849765/" rel="external" data-role="button">Demo Video</a></p>
-	</div>	
-	
-	
-	
-	</div>
-
+  </div> <!-- /content -->
+	<div data-role="footer" class="ui-bar"> 
+		<a href="http://www.ebay.com/itm/121897503386" rel="external" data-role="button">Buy It Now (eBay)</a>
+		<a href="http://www.aliexpress.com/item/LITTLE-ELF-jamma-arcade-multi-game-board-540-in-1-games-pcb-multigame-card-VGA-CGA/32419019174.html?spm=2114.10010108.0.170.h04x5p" rel="external" data-role="button">Buy It Now (Aliexpress)</a>
+  </div> <!-- /footer -->
 </div><!-- /page -->
+	
+<div data-role="page" id="pb4_intro" data-theme="a" data-add-back-btn="true">
+	<div data-role="header"> 
+		<h1> 645 In 1 (Pandora's box V4) </h1>
+	</div> 
+	<div data-role="main" class="ui-content" data-theme="a" >
+    <div>
+    <center>
+      <img src="images/pb4.logo.png">
+    </center>
+    </div>
+    <div>
+		  <h1><strong>  The game option of Pandora's Box V4.</strong></h1>
+			<ul> 
+				<li> High quality game video </li>
+				<li> all game is horizontal </li>
+				<li> Support CGA and VGA  </li>
+			</ul>			
+		  <h1> It has 645 games: </h1>
+	    <p><a href="645gamelist.html" rel="external" data-role="button">The list of Games</a></p>
+    </div>
+	</div>		
+</div><!-- /page -->
+
+<div data-role="page" id="kzbw_intro" data-theme="a" data-add-back-btn="true">
+	<div data-role="header"> 
+		<h1> 51 In 1 (The king of Air) </h1>
+	</div> 
+	<div data-role="main" class="ui-content" data-theme="a" >
+    <div>
+    <center>
+      <img src="images/kzbw.logo.png">
+    </center>
+    </div>
+    <div>
+		  <h1><strong>  The game option of KOA.</strong></h1>
+			<ul> 
+				<li> High quality game video </li>
+				<li> all game is vertical </li>
+				<li> Support CGA and VGA  </li>
+			</ul>			
+		  <h1> It has 51 games: </h1>
+	    <p><a href="51gamelist.html" rel="external" data-role="button">The list of Games</a></p>
+    </div>
+	</div>		
+</div><!-- /page -->
+
+
 </body>
 </html>
