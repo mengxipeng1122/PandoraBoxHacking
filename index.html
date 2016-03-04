@@ -25,10 +25,13 @@
 	  <h1> Pandora's box  V4</h1> 
 	  <h2>   The newest version of Pandora's box is PB4. This version include the following game option. User can enter game option select menu by hold 1P start key and 1P fire 2 key when boards boot. </h2>
     <h2><strong>Please note, some game options may not work in CGA mode. </strong></h2> 
+	  <h1> What is VGA and CGA mode</h1> 
+	  <h2>   PB4 has a dedicated circuit to detect whether there is a VGA cable connect to the CGA port when boards boot. When the boards connect a VGA cable, it start a VGA mode program, and output 800x600 VGA signal or it start a CGA mode program, and output 320x240 CGA signal. And PB4 does not support CGA and VGA mode simultaneously. </h2>
 	  <div class="choice_list"> 
 	    <ul data-role="listview" data-inset="true" >
 	      <li><a href="#pb4_intro" > <img src="images/pb4.thumbnails.png"/> <h3>Pandora's box V4</h3></a></li>
 	      <li><a href="#kzbw_intro" > <img src="images/kzbw.thumbnails.png"/> <h3>The King of Air</h3></a></li>
+	      <li><a href="#mame_intro" > <img src="images/mame.thumbnails.png"/> <h3>Mame player</h3></a></li>
 	    </ul>	
 	  </div>
 		<p><a href="https://www.facebook.com/pb3aracde/videos/476557535849765/" rel="external" data-role="button">Demo Video</a></p>
@@ -84,6 +87,76 @@
     </div>
 	</div>		
 </div><!-- /page -->
+
+<div data-role="page" id="mame_intro" data-theme="a" data-add-back-btn="true">
+	<div data-role="header"> 
+		<h1> Mame player </h1>
+	</div> 
+	<div data-role="main" class="ui-content" data-theme="a" >
+    <div>
+    <center>
+      <img src="images/mame.logo.png">
+    </center>
+    </div>
+    <div>
+		  <h1><strong>  The game option of Mame player.</strong></h1>
+			<ul> 
+				<li> This game option actually is the option for developer </li>
+				<li> all game is vertical </li>
+				<li> all game does not use HD filter </li>
+				<li> Support CGA and VGA  </li>
+			</ul>			
+		  <h1><strong> It has only one game </strong></h1>
+			<ul> 
+				<li> This default game is 'Cadillacs and Dinosaurs' </li>
+				<li> It uses MAME for game emulation, and the game experience of 'Cadillacs and Dinosaurs' is not good as 'Cadillacs and Dinosaurs' of PB4. PB4 uses FBA( Final burner alpha ) for game emulation</li>
+			</ul>			
+    <center>
+      <img src="images/mame.game.dino.png">
+    </center>
+		  <h1><strong>  TF card infos</strong></h1>
+	    <h2>   
+  <p> The TF card stores all software and games, users can open plastic package of game card to check the TF card.
+  <p> The TF card has 2 partitions. 
+			<ul> 
+  <li><p> The first partition is of FAT32 format, and stores some boot files, game configuration files, and Linux kernel image files.</li>
+  <li><p> The second partition is of EXT3 format, and stores all programs for game, game roms and program resources. </li>
+			</ul>			
+      </h2>
+		  <h1><strong>  How to modify game card </strong></h1>
+	    <h2>   
+			<ul> 
+				<li> how to game options</li>
+  <p> The boards suupport 3 game modes. The file 'game' of the first partition store current game options. You change its content. 
+			<ul> 
+      <li> pb4    --  Pandora's Box 4 game option </li>
+      <li> kzbw   --  The King of Air game option </li>
+      <li> xmame  --  Mame player game option </li>
+			</ul> 
+  <p> The file '/usr/emu/runGame' of the second partition is the boot script of software, you can check it for detail.
+				<li> how to change default game of Mame player</li>
+  <p> The directory /usr/sd/roms of the second partition stores all game roms, you can copy your roms to here. The file xmame.game of the first partition stores game roms name, the default content should be 'dino'
+				<li> how to disable boot video</li>
+  <p> Modify file '/usr/emu/runGame' of the second partition, try to  comment the commands for play boot video and logo video.  
+				<li> how to disable sound when game start in PB4</li>
+  <p> Some users feel this sound is not very good.  The files '/lib/pb4/config.stdcse/config/sound/go.wav' and '/lib/pb4/config.stdcses/config/sound/go.wav' of the second partition is the sound file, one for CGA, and the other for VGA. Try to replace this sound file to you wanted. Warning: do not delete or rename the sound files, or the game program will crash.
+				<li> how to debug program </li>
+  <p> The J36 on the PCB is the pins for debug serial port.
+			<ul> 
+      <li> pin1  -- Rxd</li>
+      <li> pin2  -- Txd</li>
+      <li> pin3  -- 3.3V (Not connect) </li>
+      <li> pin4  -- Gnd </li>
+			</ul> 
+  <p>  Users can connect serial port to check debug information, and login in Linux system to run commands. 
+			</ul>			
+	    </h2>   
+    <div>
+    </div>
+    </div>
+	</div>		
+</div><!-- /page -->
+
 
 
 </body>
