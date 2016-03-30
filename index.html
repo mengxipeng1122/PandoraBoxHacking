@@ -150,6 +150,36 @@
       <li> pin4  -- Gnd </li>
 			</ul> 
   <p>  Users can connect serial port to check debug information, and login in Linux system to run commands. 
+				<li> how to change program monitor mode manually  </li>
+  <p> PB4 support 2 kind of monitor mode, VGA and CGA.  And PB4 does not output VGA and CGA signal at same tim. There is a dedicate circuit to detect whether a VGA cable connect to the boards when boot. But sometimes, this circuit is out of work. Program starts wrong monitor mode, so users can not get good video.
+  <p> the file list related to monitor mode in the first partition
+      <ul>
+      <li> script.bin  --- configuration file of VGA mode </li>
+      <li> script1.bin --- configuration file of CGA mode </li>
+      <li> uImage.pb4  --- linux kernel of PB4 game option of  VGA mode </li>
+      <li> uImage1.pb4  --- linux kernel of PB4 game option of  CGA mode </li>
+      <li> uImage.kzbw --- linux kernel of KOA game option of  VGA mode </li>
+      <li> uImage1.kzbw --- linux kernel of KOA game option of  CGA mode </li>
+      <li> uImage.xmame --- linux kernel of mame player game option of  VGA mode </li>
+      <li> uImage1.xmame --- linux kernel of mame player game option of  CGA mode </li>
+			</ul> 
+  <p>  Users can modify this file to change monitor mode manually. Program load these file accord to file name. So users can copy files.
+  <p>       Force to VGA mode:
+  <p>          replace all CGA file with  VGA file 
+  <p>          $ cp script.bin    script1.bin 
+  <p>          $ cp uImage.pb4    uImage1.pb4 
+  <p>          $ cp uImage.kzbw   uImage1.kzbw
+  <p>          $ cp uImage.xmame  uImage1.xmame
+  <p>       Force to CGA mode:
+  <p>          replace all VGA file with  CGA file 
+  <p>          $ cp script1.bin    script.bin 
+  <p>          $ cp uImage1.pb4    uImage.pb4 
+  <p>          $ cp uImage1.kzbw   uImage.kzbw
+  <p>          $ cp uImage1.xmame  uImage.xmame
+  <p> WARNING: please backup all files you will overwrite.
+      
+      
+			</ul>			
 			</ul>			
 	    </h2>   
     <div>
