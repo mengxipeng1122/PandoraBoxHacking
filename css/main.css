@@ -5,3 +5,8 @@
   margin-right:0 auto;
 }
 
+img.make-it-fit {
+  max-width: 99%;
+  max-height: 99%;
+}
+
