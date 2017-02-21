@@ -199,7 +199,10 @@
   <p> Press side button to enter configuration menu, and set 'game selection mode' as 'any'
 				<li class='itemHeaders'> how to try to fix the screen tearing </li>
   <p> Screen tearing issue actually is a compatible issue with monitor. The file 'script.bin' of the first partition is the system parameter file of the VGA mode.  
-  <p> <a href="https://github.com/linux-sunxi/sunxi-tools" >https://github.com/linux-sunxi/sunxi-tools</a> has tools for this file.
+  <p> <a href="https://github.com/linux-sunxi/sunxi-tools" >https://github.com/linux-sunxi/sunxi-tools</a> has tools for this file. The file on the SD card is a binary file, we should convert to text mode to edit it. 
+  <p> fex2bin convert this file from text format to binary format;
+  <p> bin2fex convert this file from binary format to text format;
+  <p> <a href="https://github.com/OtakuNekoP/sunxi-fex-tools-gui4win" >https://github.com/OtakuNekoP/sunxi-fex-tools-gui4win</a> has a windows GUI version of this tool, but I've not tested it.
   <p> <a href="http://linux-sunxi.org/Fex_Guide" >http://linux-sunxi.org/Fex_Guide</a> describe the format  of this file.
       Try to modify the parameters 'lcd_dclk_freq' of the section 'lcd0_para' for some non-standard monitor to avoid screen tearing. Only try to plus 1 or minus 1 .
 				<li class='itemHeaders'> how to disable sound when game start in PB4</li>
