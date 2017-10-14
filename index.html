@@ -1,378 +1,309 @@
-<!DOCTYPE html> 
-<html> 
-	<head>
-  <meta charset="UTF-8">	
-	<title>Pandora's Box JAMMA PCBs</title> 
-  <style type="text/css">
-  /*demo page css*/
-      .demoHeaders { margin-top: 2em; color:#211919;}
-      .itemHeaders { margin-top: 2em; color:#31901c;}
-      .importants  {  color:#8c1007;}
-      .shoplink    {  color:#8c1007;}
-      .ui-title   {  color:#2accb0; }
-      #countries { width: 300px; }
-  </style>  
-	<meta name="viewport" content="width=device-width, initial-scale=1"> 
-	<link rel="stylesheet" href="jquery.mobile.structure-1.0.1.css" />
-	<link rel="stylesheet" href="css/main.css" />
-	<link rel="apple-touch-icon" href="images/launch_icon_57.png" />
-	<link rel="apple-touch-icon" sizes="72x72" href="images/launch_icon_72.png" />
-	<link rel="apple-touch-icon" sizes="114x114" href="images/launch_icon_114.png" />
-	<link rel="stylesheet" href="jquery.mobile-1.0.1.css" />
-	<script src="js/jquery-1.7.1.min.js"></script>
-	<script src="js/jquery.mobile-1.0.1.min.js"></script>
-  </head> 
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Pandora's Box multi game catridge for arcade machine</title>
+    
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans|Candal|Alegreya+Sans">
+    <link rel="stylesheet" type="text/css" href="css/font-awesome.css">
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="css/imagehover.min.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+  </head>
 
-<body> 
-
-<div data-role="page" id="home" data-theme="a">
-	<div data-role="header"> 
-		<h1> Pandora's box V4/4S </h1>
-    <p>
-		<a href="http://www.ebay.com/sch/mysticalbox/m.html" rel="external" class='shoplink' data-role="button">Buy It Now (eBay)</a>
-		<a href="http://www.ebay.com/sch/wini-store/m.html" rel="external" class='shoplink' data-role="button">Buy It Now (eBay)</a>
-		<a href="http://www.ebay.com/sch/buyit1353/m.html" rel="external" class='shoplink' data-role="button">Buy It Now (eBay)</a>
-    <a href="https://www.aliexpress.com/store/1722066" rel="external"  class='shoplink' data-role="button">Buy It Now (Aliexpress)</a>
-		<a href="https://www.amazon.co.uk/s?merchant=A3M6T2VAC0Y2SZ" rel="external"  class='shoplink' data-role="button">Buy It Now (Amazon)</a>
-	</div>  <!-- /header -->
-	
-	<div data-role="main" class="ui-content" data-theme="a">
-	  <h1 class='demoHeaders'> Pandora's box  V4S</h1>
-	  <h3>   The newest version of Pandora's box is PB4s. This version include the following game option. User can enter game option select menu by hold 1P start key and 1P fire 2 key when boards boot. </h3>
-    <h2 class='importants' ><strong>Please note, some game options may not work in CGA mode. </strong></h2> 
-	  <h1 class='demoHeaders'> What is VGA and CGA mode</h1> 
-	  <h3>   PB4S has a dedicated circuit to detect whether there is a VGA cable connect to the VGA port when boards boot. When the boards connect a VGA cable, it start a VGA mode program, and output 800x600 VGA signal or it start a CGA mode program, and output 320x240 CGA signal. And PB4 does not support CGA and VGA mode simultaneously. </h3>
-	  <div class="choice_list"> 
-	    <ul data-role="listview" data-inset="true" >
-	      <li><a href="#846_intro" > <img src="images/pb4splus.thumbnails.png"/> <h1>846 in 1</h1></a></li>
-	      <li><a href="#pb4splus_intro" > <img src="images/pb4splus.thumbnails.png"/> <h1>Pandora's box V4s+</h1></a></li>
-	      <li><a href="#pb4x_intro" > <img src="images/pb4x.thumbnails.png"/> <h1>Pandora's box V4x</h1></a></li>
-	      <li><a href="#pb4s_intro" > <img src="images/pb4s.thumbnails.png"/> <h1>Pandora's box V4s</h1></a></li>
-	      <li><a href="#pb4_intro" > <img src="images/pb4.thumbnails.png"/> <h1>Pandora's box V4</h1></a></li>
-	      <li><a href="#kzbw_intro" > <img src="images/kzbw.thumbnails.png"/> <h1>The King of Air</h1></a></li>
-	      <li><a href="#mame_intro" > <img src="images/mame.thumbnails.png"/> <h1>Mame player</h1></a></li>
-	    </ul>	
-	  </div>
-		<p><a href="https://www.facebook.com/pb3aracde/videos/476557535849765/" rel="external" data-role="button">Demo Video</a></p>
-		<p>If you have any issues, please feel free to contact us with <a href="mailto:mengxipeng@gmail.com" >mengxipeng@gmail.com</a></p>
-		<p>Fackbook page:  <a href="https://www.facebook.com/pb3aracde/" >https://www.facebook.com/pb3aracde/</a></p>
-		<p>Note: There are so many versions of PB4. Everything I said in here only works with the following versions of PCB. 
-    <img class='make-it-fit' src="images/pb4_blue_pcb.jpg" align="middle"/>
-    <!--
-    <img class='make-it-fit' src="images/pb4_pcb.jpg" align="middle"/>
-    -->
-    </p>
-  </div> <!-- /content -->
-	<div data-role="footer" class="ui-bar"> 
-  </div> <!-- /footer -->
-</div><!-- /page -->
-
-<div data-role="page" id="846_intro" data-theme="a" data-add-back-btn="true">
-	<div data-role="header"> 
-		<h1> 846 In 1  </h1>
-	</div> 
-	<div data-role="main" class="ui-content" data-theme="a" >
-    <div>
-    <center>
-      <img src="images/pb4splus.logo.png">
-    </center>
+  <body>
+    <!--Navigation bar-->
+    <nav class="navbar navbar-default navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="index.html">Pandora's Box</a>
+        </div>
+        <div class="collapse navbar-collapse" id="myNavbar">
+        <ul class="nav navbar-nav navbar-right">
+          <li><a href="#products">Products</a></li>
+          <li><a href="#shops">Shops</a></li>
+          <li><a href="#fqa">Q&A</a></li>
+          <li class="btn-trial"><a href="#shops">Buy it now</a></li>
+        </ul>
+        </div>
+      </div>
+    </nav>
+    <!--/ Navigation bar-->
+    <!--Banner-->
+    <div class="banner" style="background: url('img/pb.banner.jpg'); ">
+      <div class="bg-color" >
+        <div class="container">
+          <div class="row">
+            <div class="banner-text text-center">
+              <div class="text-border">
+                <h2 class="text-dec">Pandora's box</h2>
+              </div>
+              <div class="intro-para text-center quote">
+                <p class="big-text">Your Favorite Source of multi game cartridge for arcade machine</p>
+                <p class='small-text'>Pandora's box multi game cartridges can help you build better arcade machine, and give you perfect game experience!</p>
+                <a href="#shops" class="btn get-quote">BUY IT NOW</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
-    <div>
-		  <h1><strong>  The game option of 846 in1 .</strong></h1>
-			<ul> 
-				<li> High quality game video </li>
-				<li> all game is horizontal </li>
-				<li> Support CGA and VGA  </li>
-			</ul>			
-		  <h1> It has 846 games: </h1>
-	    <p><a href="846gamelist.html" rel="external" data-role="button">The list of Games</a></p>
-    </div>
-	</div>		
-</div><!-- /page -->
+    <!--/ Banner-->
+    <!--Products-->
+    <section id="products" class="section-padding">
+      <div class="container">
+        <div class="row">
+          <div class="header-section text-center">
+            <h2>Products</h2>
+            <p>We are selling many version of Pandora's box multi game cartridge for arcade machine.<br> Give you better game experience.</p>
+            <hr class="bottom-line">
+          </div>
+        </div>
+      </div>
+      <div class="container">
+        <div class="row" id='DBProds'>
+        <!--
+          <div class="col-md-3 col-sm-6 padleft-right">
+            <div class="text-center">
+            <h3>Pb4s</h3>
+            </div>
+            <figure class="imghvr-fold-up">
+              <img src="img/pb4s.logo.png" class="img-responsive">
+              <figcaption>
+                  <h3>Pb4s</h3>
+                  <p>Pandora's box V4s </p>
+              </figcaption>
+              <a href="#"></a>
+            </figure>
+          </div>
+          -->
+        </div>
+      </div>
+    </section>
+    <!--/ Products-->
+    <!--Online shops-->
+    <section id ="shops" class="section-padding">
+      <div class="container">
+        <div class="row" >
+          <div class="header-section text-center">
+            <h2>Our online shops</h2>
+            <p>We have many online shops on web, you can visit easily. <br> Aliexpress, eBay, Amazon</p>
+            <hr class="bottom-line">
+          </div>
+        </div>
+      </div>
+      <div class="container">
+        <div class="row" id='DBShops'>
 
-<div data-role="page" id="pb4splus_intro" data-theme="a" data-add-back-btn="true">
-	<div data-role="header"> 
-		<h1> 815 In 1 (Pandora's box V4s+) </h1>
-	</div> 
-	<div data-role="main" class="ui-content" data-theme="a" >
-    <div>
-    <center>
-      <img src="images/pb4splus.logo.png">
-    </center>
-    </div>
-    <div>
-		  <h1><strong>  The game option of Pandora's Box V4s+.</strong></h1>
-			<ul> 
-				<li> High quality game video </li>
-				<li> all game is horizontal </li>
-				<li> Support CGA and VGA  </li>
-			</ul>			
-		  <h1> It has 815 games: </h1>
-	    <p><a href="815gamelist.html" rel="external" data-role="button">The list of Games</a></p>
-	    <p><a href="815alphaordredgamelist.html" rel="external" data-role="button">The list of Games(alphabet ordered, no snap)</a></p>
-    </div>
-	</div>		
-</div><!-- /page -->
+        <!--
+          <div class="col-md-4 col-sm-4">
+            <div class="price-table">
+              <div class="pricing-head">
+                <h4>mysticalbox</h4>
+                <span class="fa "></span> <span class="amount">eBay</span> 
+              </div>
+              <div class="pricing-head">
+              <div class="price-in mart-15">
+                <a href="#" class="btn btn-bg green btn-block"><i class="fa fa-shopping-cart fa-fw"></i>ENTER</a> 
+              </div>
+            </div>
+          </div>
+          -->
 
-	
-<div data-role="page" id="pb4x_intro" data-theme="a" data-add-back-btn="true">
-	<div data-role="header"> 
-		<h1> 800 In 1 (Pandora's box V4x) </h1>
-	</div> 
-	<div data-role="main" class="ui-content" data-theme="a" >
-    <div>
-    <center>
-      <img src="images/pb4x.logo.png">
-    </center>
-    </div>
-    <div>
-		  <h1><strong>  The game option of Pandora's Box V4x.</strong></h1>
-			<ul> 
-				<li> High quality game video </li>
-				<li> all game is horizontal </li>
-				<li> Support CGA and VGA  </li>
-			</ul>			
-		  <h1> It has 800 games: </h1>
-	    <p><a href="800gamelist.html" rel="external" data-role="button">The list of Games</a></p>
-	    <p><a href="800alphaordredgamelist.html" rel="external" data-role="button">The list of Games(Alphabet ordered, no snap)</a></p>
-    </div>
-	</div>		
-</div><!-- /page -->
+        </div>
+      </div>
 
-<div data-role="page" id="pb4s_intro" data-theme="a" data-add-back-btn="true">
-	<div data-role="header"> 
-		<h1> 680 In 1 (Pandora's box V4S) </h1>
-	</div> 
-	<div data-role="main" class="ui-content" data-theme="a" >
-    <div>
-    <center>
-      <img src="images/pb4s.logo.png">
-    </center>
-    </div>
-    <div>
-		  <h1><strong>  The game option of Pandora's Box V4s.</strong></h1>
-			<ul> 
-				<li> High quality game video </li>
-				<li> all game is horizontal </li>
-				<li> Support CGA and VGA  </li>
-			</ul>			
-		  <h1> It has 680 games: </h1>
-	    <p><a href="680gamelist.html" rel="external" data-role="button">The list of Games</a></p>
-    </div>
-	</div>		
-</div><!-- /page -->
+        </div>
+      </div>
+    </section>
+    <!--/ Online Shops-->
 
-<div data-role="page" id="pb4_intro" data-theme="a" data-add-back-btn="true">
-	<div data-role="header"> 
-		<h1> 645 In 1 (Pandora's box V4S) </h1>
-	</div> 
-	<div data-role="main" class="ui-content" data-theme="a" >
-    <div>
-    <center>
-      <img src="images/pb4.logo.png">
-    </center>
-    </div>
-    <div>
-		  <h1><strong>  The game option of Pandora's Box V4.</strong></h1>
-			<ul> 
-				<li> High quality game video </li>
-				<li> all game is horizontal </li>
-				<li> Support CGA and VGA  </li>
-			</ul>			
-		  <h1> It has 645 games: </h1>
-	    <p><a href="645gamelist.html" rel="external" data-role="button">The list of Games</a></p>
-    </div>
-	</div>		
-</div><!-- /page -->
+    <section id ="fqa" class="section-padding">
+      <div class="container">
+          <div class="header-section text-center">
+            <h2>Q&A</h2>
+            <p>This section lists some common questions and answers. <br> Hope to help you out in much case</p>
+            <hr class="bottom-line"/>
 
-<div data-role="page" id="kzbw_intro" data-theme="a" data-add-back-btn="true">
-	<div data-role="header"> 
-		<h1> 51 In 1 (The king of Air) </h1>
-	</div> 
-	<div data-role="main" class="ui-content" data-theme="a" >
-    <div>
-    <center>
-      <img src="images/kzbw.logo.png">
-    </center>
-    </div>
-    <div>
-		  <h1><strong>  The game option of KOA.</strong></h1>
-			<ul> 
-				<li> High quality game video </li>
-				<li> all game is vertical </li>
-				<li> Support CGA and VGA  </li>
-			</ul>			
-		  <h1> It has 51 games: </h1>
-	    <p><a href="51gamelist.html" rel="external" data-role="button">The list of Games</a></p>
-    </div>
-	</div>		
-</div><!-- /page -->
+          </div>
 
-<div data-role="page" id="mame_intro" data-theme="a" data-add-back-btn="true">
-	<div data-role="header"> 
-		<h1> Mame player </h1>
-	</div> 
-	<div data-role="main" class="ui-content" data-theme="a" >
-    <div>
-    <center>
-      <img src="images/mame.logo.png">
-    </center>
-    </div>
-    <div>
-		  <h1 class='demoHeaders' ><strong>  The game option of Mame player.</strong></h1>
-			<ul> 
-				<li> This game option actually is the option for developer </li>
-				<li> all game is horizontal </li>
-				<li> all game does not use HD filter </li>
-				<li> Support CGA and VGA  </li>
-			</ul>			
-		  <h1 class='demoHeaders'><strong> It has only one game </strong></h1>
-			<ul> 
-        <h3>
-				<li> This default game is 'Cadillacs and Dinosaurs' </li>
-				<li> It uses MAME for game emulation, and the game experience of 'Cadillacs and Dinosaurs' is not good as 'Cadillacs and Dinosaurs' of PB4. PB4 uses FBA( Final burner alpha ) for game emulation</li>
-        </h3>
-			</ul>			
-    <center>
-      <img src="images/mame.game.dino.png">
-    </center>
-		  <h1 class='demoHeaders'><strong>  TF card infos</strong></h1>
-	    <h3>   
-  <p> The TF card stores all software and games, users can open plastic package of game card to check the TF card.
-  <p> The TF card has 2 partitions. 
-			<ul> 
-  <li><p> The first partition is of FAT32 format, and stores some boot files, game configuration files, and Linux kernel image files.</li>
-  <li><p> The second partition is of EXT3 format, and stores all programs for game, game roms and program resources. </li>
-			</ul>			
-      </h3>
-		  <h1 class='demoHeaders'><strong>  How to modify game card </strong></h1>
-	    <h3>   
-			<ul> 
-				<li class='itemHeaders'> how to change game list of lemonlaunch</li>
-        <p> In the newest version software , PB4X , there is a little program for xmame player, lemonlauch . 
-        <p> It is a open source project.  <a href="http://lemonlauncher.sourceforge.net/" >Link</a>
-        <p> The path '/usr/emu/lemonlaunch.config.vga' of the 2nd partition stores some configuration file for VGA mode
-        <p> The path '/usr/emu/lemonlaunch.config.cga' of the 2nd partition stores some configuration file for CGA mode
-        <p> There is a datebase file 'games.db' in each path to store game lists.
-        <p> if you want to edit game list, add game , you can do the following :
-			<ul> 
-        <li> check the file '/usr/emu/xmame.games.xml' , this file list all roms info supported by xmame
-        <li> copy game roms to folder '/usr/sd/roms/', NOTE, all emulator use same rom folder, and FBA and MAME's some rom may different, so try to no to overwrite exist, or some games in PB4X will may not run. 
-        <li> insert a record for new rom in file gaems.db, I use <a href="https://docs.python.org/2/library/sqlite3.html">sqlite3 module</a> in Python to access this file. This database has a table 'games' 
-        <p> the table format
-        <p>
-            CREATE TABLE games (
-            	id INTEGER NOT NULL, 
-            	filename VARCHAR, 
-            	name VARCHAR, 
-            	genre VARCHAR, 
-            	clone_of VARCHAR, 
-            	manufacturer VARCHAR, 
-            	year INTEGER, 
-            	last_played DATETIME, 
-            	params VARCHAR, 
-            	count INTEGER, 
-            	favourite BOOLEAN, 
-            	hide BOOLEAN, 
-            	broken BOOLEAN, 
-            	missing BOOLEAN, 
-            	stars INTEGER, 
-            	PRIMARY KEY (id), 
-            	CHECK (favourite IN (0, 1)), 
-            	CHECK (hide IN (0, 1)), 
-            	CHECK (broken IN (0, 1)), 
-            	CHECK (missing IN (0, 1))
-            );
-        <p> note: please set favourite field to 1 , or the game list will not display new game 
-        <li> copy snap file to path '/usr/emu/snaps' 
-			</ul> 
-      <p> note:you'd better to connect serial port on the boards, to check the program log 
+          <div>
+          <div  data-children=".item" id='DBFQAs'>
+          <!--
+            <div class="item">
+                <a data-toggle="collapse" data-parent="#exampleAccordion" href="#exampleAccordion1" aria-expanded="true" aria-controls="exampleAccordion1">
+                      Toggle item
+                          </a>
+                              <div id="exampleAccordion1" class="collapse " role="tabpanel">
+                                    <p class="mb-3">
+                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pretium lorem non vestibulum scelerisque. Proin a vestibulum sem, eget tristique massa. Aliquam lacinia rhoncus nibh quis ornare.
+                                                  </p>
+                                                      </div>
+                                                        </div>
+                                                          <div class="item">
+                                                              <a data-toggle="collapse" data-parent="#exampleAccordion" href="#exampleAccordion2" aria-expanded="false" aria-controls="exampleAccordion2">
+                                                                    Toggle item 2
+                                                                        </a>
+                                                                            <div id="exampleAccordion2" class="collapse" role="tabpanel">
+                                                                                  <p class="mb-3">
+                                                                                          Donec at ipsum dignissim, rutrum turpis scelerisque, tristique lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vivamus nec dui turpis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+                                                                                                </p>
+                                                                                                    </div>
+                                                                                                      </div>
+                                                                                                      </div>
 
+        
+        -->
 
+          </div>
 
+      </div>
+    </section>
+    <!--Footer-->
+    <footer id="footer" class="footer">
+      <div class="container text-center">
+    
+      <h3>Contact us</h3>
+    
+      <ul class="social-links" id='DBLinks'>
+      <!--
+        <li><a href="#link"><i class="fa fa-twitter fa-fw"></i></a></li>
+        <li><a href="#link"><i class="fa fa-facebook fa-fw"></i></a></li>
+        <li><a href="#link"><i class="fa fa-envelope-o fa-fw"></i></a></li>
+        -->
+      </ul>
+        ©2017  All rights reserved
+      </div>
+    </footer>
+    <!--/ Footer-->
+    
+    <script src="js/jquery.min.js"></script>
+    <script src="js/jquery.easing.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/custom.js"></script>
 
-				<li class='itemHeaders'> how to change game options</li>
-  <p> The boards suupport 3 game modes. The file 'game' of the first partition store current game options. You change its content. 
-			<ul> 
-      <li> pb4    --  Pandora's Box 4 game option </li>
-      <li> kzbw   --  The King of Air game option </li>
-      <li> xmame  --  Mame player game option </li>
-			</ul> 
-  <p> The file '/usr/emu/runGame' of the second partition is the boot script of software, you can check it for detail.
-				<li class='itemHeaders'> how to change default game of Mame player</li>
-  <p> The directory /usr/sd/roms of the second partition stores all game roms, you can copy your roms to here. The file xmame.game of the first partition stores game roms name, the default content should be 'dino'
-				<li class='itemHeaders'> how to disable boot video</li>
-  <p> Modify file '/usr/emu/runGame' of the second partition, try to  comment the commands for play boot video and logo video.  
-				<li class='itemHeaders'> About Mortal Kombat serial games </li>
-  <p> Some guys strongly ask me to add these game. I did some tests with Xmame player , but the result is not very happy. 
-  <p> <a href="https://drive.google.com/file/d/0B2A9AdN2h8n8ZFlST3dkODh5U1k/view?usp=sharing" >https://drive.google.com/file/d/0B2A9AdN2h8n8ZFlST3dkODh5U1k/view?usp=sharing</a> is the share link of the roms I tested.   
-  <p> Test instructions:
-      <li>a. Decompress the download files, and copy all roms file to '/usr/sd/roms' of the 2nd partition of TF card  </li>
-      <li>b. Edit the file 'xmame.game' of the 1st partition of TF card to the rom names , such as 'mk', 'mk2' etc. </li>
-      <li>c. Select 'xmame player ' option, when boot boards. </li>
-  <p> Test result:
-      <li> mk, and mk2 is playable, but is not very smooth;</li>
-      <li> mk3, and mk4 is unplayable, some rom files miss; </li> 
+    <script>
 
-				<li class='itemHeaders'> how to select game when no coins</li>
-  <p> Press side button to enter configuration menu, and set 'game selection mode' as 'any'
-				<li class='itemHeaders'> how to disable sound when game start in PB4</li>
-  <p> Some users feel this sound is not very good.  The files '/lib/pb4/config.stdcse/config/sound/go.wav' and '/lib/pb4/config.stdcses/config/sound/go.wav' of the second partition is the sound file, one for CGA, and the other for VGA. Try to replace this sound file to you wanted. 
-  <p> <a href="https://drive.google.com/file/d/0B2A9AdN2h8n8NFJnMVV6RmZJUTg/view?usp=sharing" >https://drive.google.com/file/d/0B2A9AdN2h8n8NFJnMVV6RmZJUTg/view?usp=sharing</a> includes all sound files, and replace the 'tank' sound and 'ready go' sound with silent sounds.
-  <p class='.importants'>   Warning: do not delete or rename the sound files, or the game program will crash. 
-				<li class='itemHeaders'> how to debug program </li>
-  <p> The J36 on the PCB is the pins for debug serial port.
-			<ul> 
-      <li> pin1  -- Rxd</li>
-      <li> pin2  -- Txd</li>
-      <li> pin3  -- 3.3V (Not connect) </li>
-      <li> pin4  -- Gnd </li>
-			</ul> 
-  <p>  Debug Serial port configuration : 115200 8N1
-  <p>  Users can connect serial port to check debug information, and login in Linux system to run commands. 
-				<li class='itemHeaders'> how to change program monitor mode manually  </li>
-  <p> PB4 support 2 kind of monitor mode, VGA and CGA.  And PB4 does not output VGA and CGA signal at same tim. There is a dedicate circuit to detect whether a VGA cable connect to the boards when boot. But sometimes, this circuit is out of work. Program starts wrong monitor mode, so users can not get good video.
-  <p> the file list related to monitor mode in the first partition
-      <ul>
-      <li> script.bin  --- configuration file of VGA mode </li>
-      <li> script1.bin --- configuration file of CGA mode </li>
-      <li> uImage.pb4  --- linux kernel of PB4 game option of  VGA mode </li>
-      <li> uImage1.pb4  --- linux kernel of PB4 game option of  CGA mode </li>
-      <li> uImage.kzbw --- linux kernel of KOA game option of  VGA mode </li>
-      <li> uImage1.kzbw --- linux kernel of KOA game option of  CGA mode </li>
-      <li> uImage.xmame --- linux kernel of mame player game option of  VGA mode </li>
-      <li> uImage1.xmame --- linux kernel of mame player game option of  CGA mode </li>
-			</ul> 
-  <p>  Users can modify this file to change monitor mode manually. Program load these file accord to file name. So users can copy files.
-  <p>       Force to VGA mode:
-  <p>          replace all CGA file with  VGA file 
-  <p>          $ cp script.bin    script1.bin 
-  <p>          $ cp uImage.pb4    uImage1.pb4 
-  <p>          $ cp uImage.kzbw   uImage1.kzbw
-  <p>          $ cp uImage.xmame  uImage1.xmame
-  <p>       Force to CGA mode:
-  <p>          replace all VGA file with  CGA file 
-  <p>          $ cp script1.bin    script.bin 
-  <p>          $ cp uImage1.pb4    uImage.pb4 
-  <p>          $ cp uImage1.kzbw   uImage.kzbw
-  <p>          $ cp uImage1.xmame  uImage.xmame
-  <p class='importants' > WARNING: please backup all files you will overwrite.
-  <li class='itemHeaders'> romlist of xmame  </li>
-	<p>	<a href="./xmame.games.xml"  >download XML file( 20+ mb ) </a>
-  <li class='itemHeaders'> jamma drv of pb4x boards  </li>
-	<p>	<a href="https://github.com/mengxipeng1122/pb4xjammadrv"  >pb4xjammadrv github</a>
+function addShops(db)
+{
+  
+  for(var i=0;i<db.shops.length;i++)
+  {
+    var shop =db.shops[i];
+    var html = 
+         '  <div class="col-md-6 col-sm-6">                                                                                       '
+        +'    <div class="price-table">                                                                                           '
+        +'      <div class="pricing-head">                                                                                        '
+        +'        <h4>'+shop.title+'</h4>                                                                                            '
+        +'        <span class="fa "></span> <span class="amount">'+shop.platform+'</span>                                                      '
+        +'      </div>                                                                                                            '
+        +'      <div class="pricing-head">                                                                                        '
+        +'      <div class="price-in mart-15">                                                                                    '
+        +'        <a href="'+shop.link+'" class="btn btn-bg green btn-block"><i class="fa fa-shopping-cart fa-fw"></i>ENTER</a>               '
+        +'      </div>                                                                                                            '
+        +'    </div>                                                                                                              '
+        +'  </div>                                                                                                                '
+       ;
+      $('#DBShops').append(html)
+  }
+}
+
+function addLinks(db)
+{
+  
+  for(var i=0;i<db.contactinfos.length;i++)
+  {
+    var info =db.contactinfos [i];
+    var html = 
+        '<li><a href="'+info.link+'"><i class="fa '+info.icon+' fa-fw"></i></a></li>'
+       ;
+      $('#DBLinks').append(html)
+  }
+}
+
+function addFQAs(db)
+{
+
+  for(var i=0;i<db.fqas.length;i++)
+  {
+    var info =db.fqas[i];
+    var html = 
+      '  <div class="item">                                                                                                                                      '  
+    + '  <a style="color: #e6420c" data-toggle="collapse" data-parent="#exampleAccordion" href="#exampleAccordion'+i+'" aria-expanded="true" aria-controls="exampleAccordion'+i+'">             '
+    + info.title
+    + '  </a>                                                                                                                                                    '
+    + '  <div id="exampleAccordion'+i+'" class="collapse " role="tabpanel">                                                                                          '
+    + '  <p class="mb-3">                                                                                                                                        '
+    + info.text
+    + '  </p>                                                                                                                                                    '
+    + '  </div>                                                                                                                                                  '
+    + '  </div>                                                                                                                                                  '
+    ;
+
+      $('#DBFQAs').append(html)
+  }
+}
+ 
+ function addProducts(db)
+ {
+   for( var i = 0;i<db.prods.length;i++)
+   {
+     var prod = db.prods[i];
+     var html = 
+        '    <div class="col-md-4 col-sm-6 padleft-right">                 '
+      + '      <div class="text-center">                                   '
+      + '      <h3>'+prod.name+'</h3>                                               '
+      + '      </div>                                                      '
+      + '      <figure class="imghvr-fold-up">                             '
+      + '        <img src="'+prod.imglink+'" class="img-responsive">      '
+      + '        <figcaption>                                              '
+      + '            <h3>'+prod.name+'</h3>                                         '
+      + '            <p>'+prod.desc+'</p>                             '
+      + '        </figcaption>                                             '
+      + '        <a href="'+prod.link+'"></a>                                          '
+      + '      </figure>                                                   '
+      + '    </div>                                                        '
+      ;
+
+      $('#DBProds').append(html)
+   }
+   
+ }
+
+function readTextFile(file, callback)
+{
+  var rawFile = new XMLHttpRequest();
+  rawFile.overrideMimeType("application/json");
+  rawFile.open('GET', file, true);
+  rawFile.onreadystatechange=function(){
+    if(rawFile.readyState===4 && rawFile.status=='200')
+    {callback(rawFile.responseText);}
+  }
+  rawFile.send(null);
+}
       
+$(document).ready(function() {
+  // load db
+  readTextFile('db.json', function (text){
+    var db = JSON.parse(text);
+    console.log('db'+db);
+
+    addProducts(db)
+    addShops(db)
+    addLinks(db)
+    addFQAs(db)
+
+    
+   });
+});
       
-			</ul>			
-			</ul>			
-	    </h3>   
-    <div>
-    </div>
-    </div>
-	</div>		
-</div><!-- /page -->
-
-
-
-</body>
+    </script>
+    
+  </body>
 </html>
