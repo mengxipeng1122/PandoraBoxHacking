@@ -2,29 +2,44 @@
   "shops": [
     {
       "platform": "eBay", 
-      "link": "http://www.ebay.com/sch/mysticalbox/m.html", 
+      "link": "http://www.ebay.com/usr/mysticalbox", 
       "title": "mysticalbox"
     }, 
     {
       "platform": "eBay", 
-      "link": "http://www.ebay.com/sch/wini-store/m.html", 
+      "link": "http://www.ebay.com/usr/wini-store", 
       "title": "wini-store"
     }, 
     {
       "platform": "eBay", 
-      "link": "http://www.ebay.com/sch/buyit1353/m.html", 
+      "link": "http://www.ebay.com/usr/buyit1353", 
       "title": "buyit1353"
     }, 
     {
-      "platform": "Aliexpress", 
-      "link": "http://www.aliexpress.com/store/1722066", 
-      "title": "miri store"
-    }, 
+      "platform": "Amazon", 
+      "link": "https://www.amazon.com/sp?marketplaceID=ATVPDKIKX0DER&seller=A1J7OKXPFCI6TA",
+      "title": "Game-Box(USA)"
+    },
     {
       "platform": "Amazon", 
-      "link": "http://www.amazon.co.uk/s?merchant=A3M6T2VAC0Y2SZ", 
-      "title": "Game-Box"
-    }
+      "link": "https://www.amazon.fr/sp?marketplaceID=A13V1IB3VIYZZH&seller=A3M6T2VAC0Y2SZ",
+      "title": "Game-Box(FR)"
+    },
+    {
+      "platform": "Amazon", 
+      "link": "https://www.amazon.it/sp?marketplaceID=A13V1IB3VIYZZH&seller=A3M6T2VAC0Y2SZ",
+      "title": "Game-Box(IT)"
+    },
+    {
+      "platform": "Amazon", 
+      "link": "https://www.amazon.es/sp?marketplaceID=A13V1IB3VIYZZH&seller=A3M6T2VAC0Y2SZ",
+      "title": "Game-Box(ES)"
+    },
+    {
+      "platform": "Amazon", 
+      "link": "https://www.amazon.co.uk/sp?marketplaceID=A13V1IB3VIYZZH&seller=A3M6T2VAC0Y2SZ",
+      "title": "Game-Box(UK)"
+    } 
   ], 
   "prods": [
     {
