@@ -150,8 +150,7 @@ function setTable(games, onepage)
             '<tr>                 '
           + '<td>'+game.idx+'</td>      '
           + '<td><a href="http://adb.arcadeitalia.net/dettaglio_mame.php?game_name='+game.rom+'">'+game.name+'</a></td>   '
-          //+ '<td><li><a href="http://adb.arcadeitalia.net/dettaglio_mame.php?game_name='+game.rom+'" ><img src="http://adb.arcadeitalia.net/media/mame.current/ingames/'+game.rom+'.png"/>_<h1>'+game.rom+'</h1></a></li></td>      '
-          + '<td><img src="http://adb.arcadeitalia.net/media/mame.current/ingames/'+game.rom+'.png"/></td>      '
+          + '<td><img src="http://adb.arcadeitalia.net/?type=ingame&mame='+game.rom+'"/></td>      '
           + '</tr>                '
           ;
       $('#DBgametable').append(html)

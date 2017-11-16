@@ -8241,6 +8241,18 @@
     {
       "text": "\n\t<p>\t<a href=\"pbbox_manual_105x142mm.pdf\"  >Pandora's box manual(.pdf)</a>\n  ", 
       "title": "Pandora's box manual"
+    },
+    {
+      "text": "\n\t<p>The information is only work for this board\t<img src=\"img/pb4_blue_pcb.jpg\" />\n  ", 
+      "title": "Which board is working?"
+    },
+    {
+      "text": "\n \t<p><h2><a href=\"https://pan.baidu.com/s/1geFUqzh\">Link for Baidu Yunpan</a></h2>\n \t\t\t<p>Because baidu yunpan file size limitition, all files should be of size less than 4G, so i split  all images file to 2G files and put them in a sperate directory .  \t<p> There is a great client for Baidu YunPan \t<p>      <a href=\"https://github.com/sdvcrx/pan-baidu-download\">pan-baidu-download</a> \t<p>Once you download all splited files for a image file , you can merge all file with command \t<p>      type x* >  <image file name >   (Windows OS ) \t<p>      cat  x* >  <image file name >   (Linux   OS ) \t<p><h2><a href=\"https://mega.nz/#F!F0NA1JSC!QkYmP96H8gJHcDoND0wBDg\">Link for Mega</a></h2>\n \t<p>    It seems my country has blocked this website, so the connection to this website is not stable, so files in this website may be old ", 
+      "title": "Where can I download image files?"
+    },
+    {
+      "text": " <a href=\"https://sourceforge.net/projects/win32diskimager/\">Win32 Disk Imager</a> (Windows OS) \t<p>      dd command (Linux OS) ", 
+      "title": "How to burn image file to TF card?"
     }
   ], 
   "contactinfos": [
