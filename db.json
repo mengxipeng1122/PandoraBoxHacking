@@ -17,31 +17,1338 @@
     }, 
     {
       "platform": "Amazon", 
-      "link": "https://www.amazon.com/sp?marketplaceID=ATVPDKIKX0DER&seller=A1J7OKXPFCI6TA",
+      "link": "https://www.amazon.com/sp?marketplaceID=ATVPDKIKX0DER&seller=A1J7OKXPFCI6TA", 
       "title": "Game-Box(USA)"
-    },
+    }, 
     {
       "platform": "Amazon", 
-      "link": "https://www.amazon.fr/sp?marketplaceID=A13V1IB3VIYZZH&seller=A3M6T2VAC0Y2SZ",
+      "link": "https://www.amazon.fr/sp?marketplaceID=A13V1IB3VIYZZH&seller=A3M6T2VAC0Y2SZ", 
       "title": "Game-Box(FR)"
-    },
+    }, 
     {
       "platform": "Amazon", 
-      "link": "https://www.amazon.it/sp?marketplaceID=A13V1IB3VIYZZH&seller=A3M6T2VAC0Y2SZ",
+      "link": "https://www.amazon.it/sp?marketplaceID=A13V1IB3VIYZZH&seller=A3M6T2VAC0Y2SZ", 
       "title": "Game-Box(IT)"
-    },
+    }, 
     {
       "platform": "Amazon", 
-      "link": "https://www.amazon.es/sp?marketplaceID=A13V1IB3VIYZZH&seller=A3M6T2VAC0Y2SZ",
+      "link": "https://www.amazon.es/sp?marketplaceID=A13V1IB3VIYZZH&seller=A3M6T2VAC0Y2SZ", 
       "title": "Game-Box(ES)"
-    },
+    }, 
     {
       "platform": "Amazon", 
-      "link": "https://www.amazon.co.uk/sp?marketplaceID=A13V1IB3VIYZZH&seller=A3M6T2VAC0Y2SZ",
+      "link": "https://www.amazon.co.uk/sp?marketplaceID=A13V1IB3VIYZZH&seller=A3M6T2VAC0Y2SZ", 
       "title": "Game-Box(UK)"
-    } 
+    }
   ], 
   "prods": [
+    {
+      "gamelist": [
+        "kof94", 
+        "kof95", 
+        "kof95eh", 
+        "kof96", 
+        "kof96eh", 
+        "kof97", 
+        "kof97ps", 
+        "kof97bdq", 
+        "kof97bh", 
+        "kof97c", 
+        "kof97evo", 
+        "kof97xt", 
+        "kof98n", 
+        "kof97pls", 
+        "kof98m", 
+        "kof98ul", 
+        "kof98c", 
+        "kof98sr", 
+        "kof99p", 
+        "kof99pf", 
+        "kof99combo", 
+        "kof99plus", 
+        "kof99h", 
+        "kf10thep", 
+        "kf2k5uni", 
+        "kof2000n", 
+        "kof2000p", 
+        "kof01", 
+        "kof01sp", 
+        "kof02", 
+        "kof02ice", 
+        "kof02m1", 
+        "kof02m2", 
+        "kof02pl", 
+        "kof02sp", 
+        "kf2k3bl", 
+        "kf2k3pl", 
+        "kf2k3upl", 
+        "ct2k3sp", 
+        "sf2ce", 
+        "sf2t", 
+        "sf2rb", 
+        "sf2rb2", 
+        "sf2red", 
+        "sf2tj", 
+        "sf2", 
+        "sf2ceuabl", 
+        "sf2ceeab2", 
+        "sf2amf3", 
+        "sf2rb4", 
+        "sf2amf8", 
+        "sf2koryu3", 
+        "sf2m2", 
+        "sf2m4", 
+        "sf2m5", 
+        "sf2m6", 
+        "sf2m7", 
+        "sfiiin", 
+        "sfiii2n", 
+        "sfiii3n", 
+        "sfzj", 
+        "sfz2j", 
+        "sfz3j", 
+        "sf2tlona", 
+        "metlsavr", 
+        "mslug", 
+        "mslug2", 
+        "mslug2hk", 
+        "mslug3nd", 
+        "mslug3hk", 
+        "mslug4nd", 
+        "mslug4pl", 
+        "mslug5nd", 
+        "mslug5pl", 
+        "mslug6nd", 
+        "mslug6pl", 
+        "mslugx", 
+        "mslugxhk", 
+        "mslughk", 
+        "hypsptsp", 
+        "1941", 
+        "1942a", 
+        "1943", 
+        "1943u", 
+        "1943kai", 
+        "1944", 
+        "1945kiii", 
+        "19xx", 
+        "2020bb", 
+        "3countb", 
+        "4enraya", 
+        "4dwarrio", 
+        "64street", 
+        "88games", 
+        "gardia", 
+        "quizdai2", 
+        "aso", 
+        "acrobatm", 
+        "actfancr", 
+        "aerofgt", 
+        "sonicwi2", 
+        "sonicwi3", 
+        "aburner2", 
+        "agressb", 
+        "agress", 
+        "airattck", 
+        "airbustr", 
+        "airduel", 
+        "agallet", 
+        "airwolf", 
+        "akumajoun", 
+        "alexkidd", 
+        "brain", 
+        "aliencha", 
+        "astorm", 
+        "aliensyn", 
+        "avsp", 
+        "aliens", 
+        "aliensec", 
+        "alleymas", 
+        "alpham2", 
+        "alpine", 
+        "altbeast", 
+        "ambushj", 
+        "amidar", 
+        "androdun", 
+        "angelkds", 
+        "aquajack", 
+        "aquarium", 
+        "arabianm", 
+        "arcadian", 
+        "argusg", 
+        "arkarea", 
+        "arkanoid", 
+        "arknoid2", 
+        "batridj", 
+        "armwar", 
+        "aof", 
+        "aof2", 
+        "aof3", 
+        "asterixaad", 
+        "asterix", 
+        "astrob", 
+        "asuka", 
+        "asurabld", 
+        "asylum", 
+        "athena", 
+        "atomicp", 
+        "chelnov", 
+        "aurail", 
+        "avspirit", 
+        "aztarac", 
+        "bcstry", 
+        "bssoccer", 
+        "badlands", 
+        "dolmen", 
+        "bagman", 
+        "ballbros", 
+        "bangball", 
+        "b2b", 
+        "bangbead", 
+        "bankp", 
+        "baraduke", 
+        "bstars", 
+        "bstars2", 
+        "jumpshot", 
+        "batman", 
+        "batsuguna", 
+        "battlnts", 
+        "bkraidj", 
+        "bchopper", 
+        "batcir", 
+        "btlecity", 
+        "flipshot", 
+        "bgaregga", 
+        "btlkroad", 
+        "combh", 
+        "freeze", 
+        "bayroute", 
+        "bbusters", 
+        "ddp2", 
+        "blswhstl", 
+        "berabohm", 
+        "berlwall", 
+        "bestbest", 
+        "bestri", 
+        "bigkarnk", 
+        "bigstrik", 
+        "popbingo", 
+        "bioatack", 
+        "bioship", 
+        "mp_bio", 
+        "biomtoy", 
+        "bionicc", 
+        "birdtry", 
+        "birdiy", 
+        "blkheart", 
+        "blkpnthr", 
+        "blktiger", 
+        "bmaster", 
+        "blandia", 
+        "blazeon", 
+        "blazstar", 
+        "blockbl", 
+        "blockcar", 
+        "blockout", 
+        "block", 
+        "blockjoy", 
+        "blmbycar", 
+        "bloodbro", 
+        "bloodwar", 
+        "blox16b", 
+        "bluehawk", 
+        "blueprnt", 
+        "bjourney", 
+        "bodyslam", 
+        "boggy84", 
+        "bombjack", 
+        "bombkick", 
+        "bbmanw", 
+        "bjtwin", 
+        "bnzabros", 
+        "bongo", 
+        "bonzeadv", 
+        "boogwing", 
+        "mstadium", 
+        "bottom9", 
+        "bouldash", 
+        "bballs", 
+        "bowlrama", 
+        "ashnojoe", 
+        "breakers", 
+        "breakrev", 
+        "bubl2000", 
+        "bublbobl", 
+        "bublboblr", 
+        "bucky", 
+        "btime", 
+        "burglarx", 
+        "brubber", 
+        "burningf", 
+        "burningfp", 
+        "cabal", 
+        "cachat", 
+        "cadash", 
+        "dino", 
+        "dinoeh", 
+        "calibr50", 
+        "calipso", 
+        "cameltry", 
+        "cannonbp", 
+        "csclubj", 
+        "csclub", 
+        "cworld", 
+        "captaven", 
+        "ctomaday", 
+        "cawing", 
+        "excelsr", 
+        "cavelon", 
+        "cninja", 
+        "centiped", 
+        "chaknpop", 
+        "chainrec", 
+        "chameleo", 
+        "chboxing", 
+        "champwr", 
+        "multchmpk", 
+        "charlien", 
+        "checkman", 
+        "chimerab", 
+        "chinagat", 
+        "chinatwn", 
+        "chinhero", 
+        "chokchok", 
+        "chopliftbl", 
+        "chukatai", 
+        "circusc", 
+        "citycon", 
+        "citybomb", 
+        "clshroad", 
+        "atetris", 
+        "cloud9", 
+        "cluclu", 
+        "columns", 
+        "columns2", 
+        "mp_col3", 
+        "combasc", 
+        "toto", 
+        "condor", 
+        "congo", 
+        "contra", 
+        "cookbib", 
+        "cookbib2", 
+        "cookbib3", 
+        "cotton", 
+        "crazyfgt", 
+        "crimec", 
+        "crimfght", 
+        "crimfghtj", 
+        "crospang", 
+        "crsword", 
+        "cthd2003", 
+        "cbuster", 
+        "crush", 
+        "cth2003", 
+        "cth2003p", 
+        "cuebrick", 
+        "cybattlr", 
+        "cyberlip", 
+        "cybotsj", 
+        "ddcrewj", 
+        "ddcrew", 
+        "dcon", 
+        "djboy", 
+        "daioha", 
+        "dfeveron", 
+        "daraku", 
+        "darkseal", 
+        "darktowr", 
+        "ddsom", 
+        "dstlk", 
+        "darwin", 
+        "dquizgo", 
+        "ddribble", 
+        "deadconx", 
+        "demonwld", 
+        "desertbr", 
+        "thndzonea", 
+        "devstors", 
+        "devilw", 
+        "dharma", 
+        "diamond", 
+        "dietgo", 
+        "digdug", 
+        "digdug2", 
+        "diggerma", 
+        "dimahoo", 
+        "dingo", 
+        "dinorex", 
+        "diverboy", 
+        "dockman", 
+        "ddpdoj", 
+        "ddonpach", 
+        "dogyuun", 
+        "dondokod", 
+        "dkong", 
+        "dkong3b", 
+        "dkongjr", 
+        "donpachi", 
+        "ddragon", 
+        "doubledr", 
+        "ddragon2", 
+        "ddragon3", 
+        "doubledp", 
+        "drmario", 
+        "drtomy", 
+        "drtoppel", 
+        "dragnblz", 
+        "drgnbowl", 
+        "dbreed72", 
+        "dragngun", 
+        "drgnmst", 
+        "drgpunch", 
+        "drgnunit", 
+        "dbz", 
+        "dbz2", 
+        "baddudes", 
+        "dremshpr", 
+        "dsoccr94", 
+        "fantznta", 
+        "duckhunt", 
+        "hcastlee", 
+        "ddtodu", 
+        "ddsomu", 
+        "dyger", 
+        "rotdnd", 
+        "dynablst", 
+        "dynamski", 
+        "ddux", 
+        "dynwar", 
+        "eswatbl", 
+        "edf", 
+        "ecofghtr", 
+        "edrandy", 
+        "eightfrc", 
+        "eightman", 
+        "elevator", 
+        "elvactr", 
+        "psurge", 
+        "esckidsj", 
+        "esprade", 
+        "espgal", 
+        "euroch92", 
+        "exedexes", 
+        "exerion", 
+        "explbrkr", 
+        "exterm", 
+        "extdwnhl", 
+        "eyes", 
+        "f1dream", 
+        "feversos", 
+        "fncywld", 
+        "fantzone", 
+        "fantzonep", 
+        "rbff1a", 
+        "fatfury1", 
+        "fatfury2", 
+        "fatfury3", 
+        "fatfursp", 
+        "fcombat", 
+        "fightfev", 
+        "fghthist", 
+        "fghtbskt", 
+        "finalb", 
+        "ffight", 
+        "finalttr", 
+        "firehawk", 
+        "funkyjeta", 
+        "fixeight", 
+        "fpoint", 
+        "flashgal", 
+        "flicky", 
+        "mf_flip", 
+        "flytiger", 
+        "footchmp", 
+        "fbfrenzy", 
+        "forgottnu", 
+        "cps1frog", 
+        "frogger", 
+        "manybloc", 
+        "funkyjet", 
+        "gijoe", 
+        "gaia", 
+        "gground", 
+        "galagamf", 
+        "galaga3", 
+        "galaga88", 
+        "moonal2", 
+        "zerotime", 
+        "galaxyfg", 
+        "galmedes", 
+        "galpanic", 
+        "panicstr", 
+        "galpani2", 
+        "galpans2", 
+        "ganbare", 
+        "gbusters", 
+        "gangwars", 
+        "ganryu", 
+        "garogun", 
+        "garyoret", 
+        "gemini", 
+        "genix", 
+        "gpilots", 
+        "ghostlop", 
+        "gngt", 
+        "ghouls", 
+        "gigawing", 
+        "gigandes", 
+        "gimeabrk", 
+        "ginganin", 
+        "gladiatr", 
+        "gogomile", 
+        "goal92", 
+        "goalx3", 
+        "gghost", 
+        "goldmedl", 
+        "goldnaxe", 
+        "goldnaxe2", 
+        "mp_gaxe2", 
+        "gomoku", 
+        "gondo", 
+        "gotcha", 
+        "marineb", 
+        "matrimnd", 
+        "gowcaizr", 
+        "gradius3", 
+        "rushatck", 
+        "gberet", 
+        "grindstm", 
+        "grobda", 
+        "grobda3", 
+        "growl", 
+        "grdnstrm", 
+        "grdians", 
+        "gwar", 
+        "gulfstrm", 
+        "gunfront", 
+        "gundealr", 
+        "gunmast", 
+        "gunsmoke", 
+        "gnbarich", 
+        "gunbird", 
+        "gunbird2", 
+        "neothndr", 
+        "gundamex", 
+        "gundhara", 
+        "gunforc2", 
+        "gunforce", 
+        "gunnail", 
+        "gururin", 
+        "guwange", 
+        "guzzler", 
+        "gyruss", 
+        "hachoo", 
+        "hharry", 
+        "hardhead", 
+        "hardhea2", 
+        "hasamu", 
+        "hattrick", 
+        "htchctch", 
+        "hcastle", 
+        "hedpanic", 
+        "hbarrel", 
+        "hvysmsh", 
+        "heberpop", 
+        "peekaboo", 
+        "hellfire", 
+        "hero", 
+        "heuksun", 
+        "hexa", 
+        "hwrace", 
+        "hippodrm", 
+        "hook", 
+        "hopprobo", 
+        "hopmappy", 
+        "horizon", 
+        "hotdogst", 
+        "hunchbks", 
+        "wofhfh", 
+        "hyprduel", 
+        "hyperpac", 
+        "hyperspt", 
+        "hsf2d", 
+        "imsorry", 
+        "inthunt", 
+        "insectx", 
+        "intrepid", 
+        "ironhors", 
+        "karatblz", 
+        "gaunt2", 
+        "jjsquawk", 
+        "jrpacman", 
+        "jack", 
+        "jackal", 
+        "jchan", 
+        "jchan2", 
+        "choko", 
+        "joemacr", 
+        "joinem", 
+        "jojoban", 
+        "jojoan", 
+        "jollyjgr", 
+        "jumpbug", 
+        "jumpcoas", 
+        "jumpkids", 
+        "jumppop", 
+        "junglek", 
+        "jungler", 
+        "junofrst", 
+        "kabukikl", 
+        "kabukieh", 
+        "kageki", 
+        "kaos", 
+        "karatblzu", 
+        "karianx", 
+        "karnovr", 
+        "karnov", 
+        "kengo", 
+        "keroppi", 
+        "keroppij", 
+        "kikikai", 
+        "kickoff", 
+        "kickridr", 
+        "kikstart", 
+        "kicknrun", 
+        "kicker", 
+        "kidniki", 
+        "horekid", 
+        "kog", 
+        "kotm", 
+        "kotm2", 
+        "shippumd", 
+        "kizuna", 
+        "knights", 
+        "knightsb2", 
+        "kbash", 
+        "kbash2", 
+        "kncljoe", 
+        "kodure", 
+        "kungfum", 
+        "kungfut", 
+        "kurikint", 
+        "kyros", 
+        "ladybug", 
+        "ladyfrog", 
+        "lans2k4d", 
+        "lasso", 
+        "lastduel", 
+        "lresort", 
+        "kyustrkr", 
+        "lbowling", 
+        "silkroad", 
+        "legendos", 
+        "loht", 
+        "lomakai", 
+        "lwings", 
+        "raiga", 
+        "lemmings", 
+        "crshrace", 
+        "lethalth", 
+        "levers", 
+        "liquidk", 
+        "livequiz", 
+        "ldrun", 
+        "ldrun2", 
+        "ldrun3", 
+        "ldrun4", 
+        "logicpro", 
+        "logicpr2", 
+        "lotlot", 
+        "matmania", 
+        "mvp", 
+        "maddonna", 
+        "madshark", 
+        "magicbub", 
+        "msword", 
+        "mcatadv", 
+        "mgcrystlo", 
+        "magdrop2", 
+        "magdrop3", 
+        "maglord", 
+        "jongbou", 
+        "gmahou", 
+        "mainsnk", 
+        "majtitl2", 
+        "mangchi", 
+        "wb33", 
+        "wb34", 
+        "wb3", 
+        "mappy", 
+        "mariojp", 
+        "mario", 
+        "garoup", 
+        "markham", 
+        "mmatrix", 
+        "martmast", 
+        "marvland", 
+        "msh", 
+        "mshu", 
+        "mshvsfj", 
+        "marvins", 
+        "kamenrid", 
+        "mosyougi", 
+        "bullfgt", 
+        "maxrpm", 
+        "mazinger", 
+        "armwarr1", 
+        "megablst", 
+        "megaman", 
+        "megaman2", 
+        "mtwins", 
+        "megadon", 
+        "kikcubic", 
+        "mercs", 
+        "metalb", 
+        "metmqstr", 
+        "metamrph", 
+        "mwalkbl2", 
+        "mwalkbl", 
+        "midres", 
+        "midresu", 
+        "mpangj", 
+        "mikie", 
+        "gtmrusa", 
+        "gtmr2a", 
+        "milliped", 
+        "msbingo", 
+        "mia", 
+        "mia2", 
+        "m660", 
+        "mrviking", 
+        "msgundam", 
+        "gundl94", 
+        "mogura", 
+        "momoko", 
+        "miexchng", 
+        "montecar", 
+        "mooncrst", 
+        "moonwar", 
+        "moremorp", 
+        "moremore", 
+        "mk", 
+        "motos", 
+        "mouser", 
+        "mrdo", 
+        "docastle", 
+        "mrgoemon", 
+        "mrtnt", 
+        "mschamp", 
+        "mspacman", 
+        "mspacmbe", 
+        "mugsmash", 
+        "nmg5", 
+        "multchmp", 
+        "mutantf", 
+        "mutnat", 
+        "myherok", 
+        "mystston", 
+        "mysticri", 
+        "mystwarr", 
+        "nam1975", 
+        "naname", 
+        "nastar", 
+        "nmouse", 
+        "nkdodgeb", 
+        "kuniokun", 
+        "nemesis", 
+        "nemo", 
+        "neobombe", 
+        "neodrift", 
+        "neomrdo", 
+        "turfmast", 
+        "neocup98", 
+        "nrallyx", 
+        "newsin7", 
+        "tnzs", 
+        "newpuc2b", 
+        "nslasher", 
+        "nitd", 
+        "nbbatman", 
+        "ncombat", 
+        "ncommand", 
+        "ninjemak", 
+        "kazan", 
+        "ninjak", 
+        "ninjamas", 
+        "nspirit", 
+        "ninjakun", 
+        "ninjakd2", 
+        "nitrobal", 
+        "nost", 
+        "nouryoku", 
+        "numanath", 
+        "ohmygod", 
+        "oisipuzl", 
+        "omegaf", 
+        "onna34ro", 
+        "orlegend", 
+        "oldsplus", 
+        "olds103t", 
+        "osman", 
+        "outzonea", 
+        "outrun", 
+        "overtop", 
+        "ozon1", 
+        "ichirk", 
+        "tantrkor", 
+        "p47", 
+        "sailormn", 
+        "ppchamp", 
+        "pacman", 
+        "pacplus", 
+        "pacmania", 
+        "paintrlr", 
+        "pairsnb", 
+        "palamed", 
+        "pandoras", 
+        "pang", 
+        "pangpoms", 
+        "pang3", 
+        "pangpang", 
+        "panicbom", 
+        "parodius", 
+        "pass", 
+        "pengo", 
+        "pengo2", 
+        "penbros", 
+        "pkunwar", 
+        "phoenix", 
+        "photoy2k", 
+        "phozon", 
+        "pickin", 
+        "pigskin", 
+        "pbaction", 
+        "pingpong", 
+        "pipibibs", 
+        "piranha", 
+        "higemaru", 
+        "pirates", 
+        "pitfall2", 
+        "playball", 
+        "pgoal", 
+        "pleiads", 
+        "plotting", 
+        "plumppop", 
+        "plusalph", 
+        "pnickj", 
+        "pnyaa", 
+        "sgemfa", 
+        "pcktgal", 
+        "pktgaldx", 
+        "poitto", 
+        "korokoro", 
+        "pollux", 
+        "ponpoko", 
+        "pooyan", 
+        "popbounc", 
+        "popeye", 
+        "potopoto", 
+        "powerinsa", 
+        "pwrinst2j", 
+        "plegends", 
+        "pspikes2", 
+        "mwarr", 
+        "prehisle", 
+        "preisl2n", 
+        "pow", 
+        "progearj", 
+        "progress", 
+        "psychic5", 
+        "psychos", 
+        "oscar", 
+        "puckman", 
+        "pulirula", 
+        "pulstar", 
+        "kncljoea", 
+        "punkshot", 
+        "punkshot2", 
+        "pururun", 
+        "puyo", 
+        "puyopuy2", 
+        "pzloop2j", 
+        "puzzlove", 
+        "pbobblen", 
+        "pbobbl2n", 
+        "pbobble3", 
+        "pbobble4", 
+        "pbobble", 
+        "pzlbreak", 
+        "pzlbowl", 
+        "puzzledp", 
+        "puzzldpr", 
+        "spf2t", 
+        "spf2xj", 
+        "4in1boot", 
+        "puzlstar", 
+        "uopoko", 
+        "joyjoy", 
+        "puzznic", 
+        "sqbert", 
+        "qix", 
+        "quartet", 
+        "sf2mega", 
+        "sf2accp2", 
+        "sunaq", 
+        "quizdaisk", 
+        "quizo", 
+        "quizkofk", 
+        "rshark", 
+        "rtype", 
+        "rtype2", 
+        "rtypeleo", 
+        "rabiolep", 
+        "rotdn", 
+        "ragnagrd", 
+        "raiden", 
+        "stratof", 
+        "rbisland", 
+        "rallybik", 
+        "rambo3p", 
+        "rampart", 
+        "rastan", 
+        "reactor", 
+        "rbff1", 
+        "rbff2", 
+        "rbffspec", 
+        "redeartn", 
+        "redhawkb", 
+        "redrobin", 
+        "regulus", 
+        "renegade", 
+        "rezon", 
+        "ridhero", 
+        "rimrockn", 
+        "ringdest", 
+        "riot", 
+        "riotcity", 
+        "roboarmy", 
+        "robowres", 
+        "robocop", 
+        "robocopb2", 
+        "rockrage", 
+        "rodland", 
+        "rohga", 
+        "rollerg", 
+        "racknrol", 
+        "rungun", 
+        "esckids", 
+        "rygar", 
+        "ryujin", 
+        "ryukyu", 
+        "ssmissin", 
+        "sadari", 
+        "sdgndmps", 
+        "sfx", 
+        "shangha2", 
+        "svcboot", 
+        "svcsplus", 
+        "svcplus", 
+        "swat", 
+        "sabotenb", 
+        "stdragon", 
+        "samuraia", 
+        "tsamurai", 
+        "samsho", 
+        "samsho2", 
+        "samsho3h", 
+        "samsho4", 
+        "samsh5sp", 
+        "mbombrd", 
+        "saturnzi", 
+        "samsho2k", 
+        "savagere", 
+        "sbomberb", 
+        "scotrsht", 
+        "scramble", 
+        "scramblb", 
+        "sdfight", 
+        "neobattl", 
+        "searchey", 
+        "searchp2", 
+        "secretag", 
+        "sectionz", 
+        "seganinj", 
+        "selfeena", 
+        "sengoku", 
+        "sengoku2", 
+        "sengok3n", 
+        "sengok3h", 
+        "mjgtaste", 
+        "sexyparo", 
+        "shackled", 
+        "shdancer", 
+        "shadfrce", 
+        "orbs", 
+        "shadoww", 
+        "shadowld", 
+        "shanghai", 
+        "shaolins", 
+        "tshingen", 
+        "shinobi", 
+        "shinfz", 
+        "shocktro", 
+        "shocktr2", 
+        "shocking", 
+        "shootbul", 
+        "shuuz", 
+        "sidearms", 
+        "sidepckt", 
+        "sidepcktb2", 
+        "silentd", 
+        "silkworm", 
+        "silvmil", 
+        "simpsons2p", 
+        "skullxbo", 
+        "skyadvnt", 
+        "skyalert", 
+        "skykid", 
+        "skysmash", 
+        "skysoldr", 
+        "slammast", 
+        "slapfighb1", 
+        "slapbtjp", 
+        "slapshot", 
+        "slyspy", 
+        "snapjack", 
+        "snapper", 
+        "snowbros", 
+        "snowbro2", 
+        "snowbros3", 
+        "snowbro3", 
+        "socbrawl", 
+        "pushman", 
+        "soldivid", 
+        "soldam", 
+        "amazon", 
+        "solfigtr", 
+        "solomonj", 
+        "sonson", 
+        "sonicbom", 
+        "mp_sonic", 
+        "mp_soni2", 
+        "sstriker", 
+        "sotsugyo", 
+        "sbsgomo", 
+        "sbomber", 
+        "spacegun", 
+        "sharrier", 
+        "spcinv95", 
+        "spacedx", 
+        "spacezap", 
+        "sparkman", 
+        "spatter", 
+        "spy", 
+        "spec2k", 
+        "spec2kh", 
+        "spdcoin", 
+        "speedspn", 
+        "spelunk2", 
+        "spelunkr", 
+        "mvscj", 
+        "spinmast", 
+        "spinmasth", 
+        "spinlbrk", 
+        "liquidku", 
+        "springer", 
+        "squash", 
+        "stadhero", 
+        "stagger1", 
+        "stakwin", 
+        "stakwin2", 
+        "captcomm", 
+        "starjack", 
+        "metafox", 
+        "stocker", 
+        "sf", 
+        "sfa", 
+        "strhoop", 
+        "streetsm", 
+        "sfa2u", 
+        "sfa3u", 
+        "mp_sor2", 
+        "strider", 
+        "stg", 
+        "s1945", 
+        "s1945ii", 
+        "s1945iii", 
+        "s1945pn", 
+        "s1945ph", 
+        "scessjoe", 
+        "sbagman", 
+        "semibase", 
+        "sbishik", 
+        "sbishi", 
+        "bishi", 
+        "sboblbob", 
+        "sbrkout", 
+        "supbtime", 
+        "scobra", 
+        "scontra", 
+        "spdodgeb", 
+        "sdodgeb", 
+        "sdtennis", 
+        "crusherm", 
+        "pfghtj", 
+        "happy6", 
+        "suprleag", 
+        "macross", 
+        "macross2", 
+        "suprmrio", 
+        "smbomb", 
+        "spang", 
+        "sqix", 
+        "sranger", 
+        "srdarwin", 
+        "ssideki", 
+        "ssideki2", 
+        "ssideki3", 
+        "sslam", 
+        "suprslam", 
+        "ssi", 
+        "ssprint", 
+        "ssf2", 
+        "ssf2t", 
+        "ssf2xj", 
+        "ladybugg", 
+        "suprtrio", 
+        "svolley", 
+        "svolleyk", 
+        "mpang", 
+        "superpac", 
+        "superx", 
+        "ssoldier", 
+        "superman", 
+        "suratk", 
+        "ssprint3", 
+        "swatpolc", 
+        "tnk3", 
+        "tmht2p", 
+        "tmht22pe", 
+        "tangtang", 
+        "tankfrce", 
+        "taotaido", 
+        "tharrier", 
+        "tattass", 
+        "tws96", 
+        "tengaij", 
+        "passsht", 
+        "terracre", 
+        "tetris", 
+        "tgm2", 
+        "tetrisp2", 
+        "tgm2p", 
+        "mrflea", 
+        "astyanax", 
+        "ctribeb", 
+        "thedeep", 
+        "theend", 
+        "flstory", 
+        "fround", 
+        "thegladpcb", 
+        "theglobp", 
+        "killbldp", 
+        "kod", 
+        "kof97boss", 
+        "lastblad", 
+        "lastbld2", 
+        "lastday", 
+        "lkage", 
+        "fantzn2x", 
+        "3in1semi", 
+        "punisher", 
+        "srumbler", 
+        "superspy", 
+        "todruaga", 
+        "ssideki4", 
+        "knightsh", 
+        "ddtod", 
+        "rdaction", 
+        "kof97lb3", 
+        "trally", 
+        "3wonders", 
+        "thndrx2j", 
+        "thunderl", 
+        "thunderx", 
+        "thndrx2", 
+        "tdragon", 
+        "tdragon2", 
+        "thundfox", 
+        "theroes", 
+        "thoop", 
+        "tstrike", 
+        "tndrcade", 
+        "tigeroad", 
+        "timeplt", 
+        "timescan", 
+        "timesold", 
+        "toggle", 
+        "toki", 
+        "tokio", 
+        "powerin4", 
+        "tophuntr", 
+        "tpgolf", 
+        "toppyrap", 
+        "toryumon", 
+        "myhero", 
+        "trackfld", 
+        "triothep", 
+        "triplfun", 
+        "trvmstr", 
+        "trojan", 
+        "troangel", 
+        "truxton", 
+        "truxton2", 
+        "tumblep", 
+        "turbofrc", 
+        "twinactn", 
+        "twinadv", 
+        "twincobr", 
+        "twineagl", 
+        "twinfalc", 
+        "twinhawk", 
+        "twinqix", 
+        "twinsqua", 
+        "twinkle", 
+        "twinspri", 
+        "earthjkr", 
+        "unsquad", 
+        "mustangs", 
+        "dangar", 
+        "ufosensi", 
+        "uballoon", 
+        "utoukond", 
+        "ultraman", 
+        "umanclub", 
+        "unclepoo", 
+        "uccops", 
+        "gwarrior", 
+        "upndown", 
+        "mustang", 
+        "vampj", 
+        "vhuntj", 
+        "vhunt2", 
+        "vsav2", 
+        "vsav", 
+        "vanvan", 
+        "vandyke", 
+        "vaportra", 
+        "vmetal", 
+        "varth", 
+        "vastar", 
+        "vendetta2pd", 
+        "victroad", 
+        "hustler", 
+        "viewpoin", 
+        "vigilant", 
+        "viofight", 
+        "uccopsj", 
+        "viostorm", 
+        "volfied", 
+        "hogalley", 
+        "vsskykid", 
+        "goonies", 
+        "excitebk", 
+        "iceclimb", 
+        "vulcan", 
+        "vulgus", 
+        "wbmljb", 
+        "wwfsstaru", 
+        "wwfwfest", 
+        "mj4simai", 
+        "wakuwak7", 
+        "wallc", 
+        "wwallyj", 
+        "wanted", 
+        "wrofaero", 
+        "cybots", 
+        "wof", 
+        "wof3js", 
+        "watrball", 
+        "wmatch", 
+        "welltris", 
+        "ssridersabd", 
+        "wildfang", 
+        "moomesa", 
+        "willow", 
+        "cltchitr", 
+        "wjammers", 
+        "wits", 
+        "wiz", 
+        "wizdfire", 
+        "wboy", 
+        "wboy2", 
+        "wb32", 
+        "wboy4", 
+        "wbdeluxe", 
+        "wondl96", 
+        "wlstar", 
+        "wondstck", 
+        "wbmlb", 
+        "woodpeck", 
+        "wwfsstar", 
+        "woodpek", 
+        "wc90", 
+        "wcvol95", 
+        "wh1h", 
+        "wh2", 
+        "wh2jh", 
+        "whp", 
+        "wrestwar", 
+        "armwrest", 
+        "xmultipl", 
+        "xmcota", 
+        "xmen2pa", 
+        "xmvsfr1", 
+        "xmvsf", 
+        "xsleena", 
+        "xevious", 
+        "xorworld", 
+        "xybots", 
+        "xyonix", 
+        "youjyudn", 
+        "yamyam", 
+        "yiear", 
+        "zedblade", 
+        "zintrckb", 
+        "zerowing", 
+        "zigzag", 
+        "zingzip", 
+        "madgear", 
+        "zombraid", 
+        "zupapa", 
+        "kov", 
+        "kov2106", 
+        "kov2p205", 
+        "kov2p204", 
+        "kovpls", 
+        "kovplusf2", 
+        "kovplus", 
+        "kovplusf", 
+        "kovqyz", 
+        "kovshp", 
+        "kovsh", 
+        "kovshf", 
+        "kovshz", 
+        "kovshxas", 
+        "kovshy", 
+        "kovytzy"
+      ], 
+      "link": "gamelist.html?prodidx=0", 
+      "name": "1299 in 1 ", 
+      "imglink": "img/pb5s.logo.png", 
+      "desc": "1299 games"
+    }, 
     {
       "gamelist": [
         "kof97", 
@@ -5198,6 +6505,9 @@
     "drtoppel": {
       "name": "Dr. Toppel's Adventure (World)"
     }, 
+    "jollyjgr": {
+      "name": "Jolly Jogger"
+    }, 
     "cookbib": {
       "name": "Cookie & Bibi (set 1)"
     }, 
@@ -5216,8 +6526,11 @@
     "gbusters": {
       "name": "Gang Busters (set 1)"
     }, 
-    "tndrcade": {
-      "name": "Thundercade / Twin Formation"
+    "gemini": {
+      "name": "Gemini Wing (Japan)"
+    }, 
+    "watrball": {
+      "name": "Water Balls"
     }, 
     "twinsqua": {
       "name": "Twin Squash"
@@ -5231,14 +6544,17 @@
     "thoop": {
       "name": "Thunder Hoop (Ver. 1)"
     }, 
-    "rampart": {
-      "name": "Rampart (Trackball)"
+    "twinactn": {
+      "name": "Twin Action"
     }, 
     "jongbou": {
       "name": "Mahjong Block Jongbou (Japan)"
     }, 
     "plegends": {
       "name": "Gogetsuji Legends (US, Ver. 95/06/20)"
+    }, 
+    "yiear": {
+      "name": "Yie Ar Kung-Fu (program code I)"
     }, 
     "cameltry": {
       "name": "Cameltry (US, YM2610)"
@@ -5266,6 +6582,9 @@
     }, 
     "1941": {
       "name": "1941: Counter Attack (World 900227)"
+    }, 
+    "ecofghtr": {
+      "name": "Eco Fighters (World 931203)"
     }, 
     "wildfang": {
       "name": "Wild Fang / Tecmo Knight"
@@ -5297,8 +6616,8 @@
     "ssideki3": {
       "name": "Super Sidekicks 3 - The Next Glory / Tokuten Ou 3 - eikou e no michi"
     }, 
-    "gpilots": {
-      "name": "Ghost Pilots (NGM-020)(NGH-020)"
+    "citybomb": {
+      "name": "City Bomber (World)"
     }, 
     "tmht2p": {
       "name": "Teenage Mutant Hero Turtles (UK 2 Players, set 1)"
@@ -5326,6 +6645,9 @@
     }, 
     "clshroad": {
       "name": "Clash-Road"
+    }, 
+    "hotdogst": {
+      "name": "Hotdog Storm (International)"
     }, 
     "parodius": {
       "name": "Parodius DA! (World, set 1)"
@@ -5363,6 +6685,9 @@
     "scotrsht": {
       "name": "Scooter Shooter"
     }, 
+    "tankfrce": {
+      "name": "Tank Force (US, 2 Player)"
+    }, 
     "chboxing": {
       "name": "Champion Boxing"
     }, 
@@ -5377,6 +6702,9 @@
     }, 
     "shuuz": {
       "name": "Shuuz (version 8.0)"
+    }, 
+    "valkyrie": {
+      "name": "Valkyrie No Densetsu (Japan)"
     }, 
     "raiga": {
       "name": "Raiga - Strato Fighter (Japan)"
@@ -5393,11 +6721,17 @@
     "alleymas": {
       "name": "Alley Master"
     }, 
+    "dynablst": {
+      "name": "Dynablaster / Bomber Man"
+    }, 
+    "phoenix": {
+      "name": "Phoenix (Amstar)"
+    }, 
     "uopoko": {
       "name": "Puzzle Uo Poko (International)"
     }, 
-    "kovshy": {
-      "name": "kovshy"
+    "4dwarrio": {
+      "name": "4-D Warriors (315-5162)"
     }, 
     "nam1975": {
       "name": "NAM-1975 (NGM-001)(NGH-001)"
@@ -5411,8 +6745,11 @@
     "sdodgeb": {
       "name": "Super Dodge Ball / Kunio no Nekketsu Toukyuu Densetsu"
     }, 
-    "gunforce": {
-      "name": "Gunforce - Battle Fire Engulfed Terror Island (World)"
+    "spinmasth": {
+      "name": "spinmasth"
+    }, 
+    "sf2amf3": {
+      "name:": "Street Fighter II - Champion Edition 3"
     }, 
     "drgnbowl": {
       "name": "Dragon Bowl (set 1, encrypted program)"
@@ -5423,8 +6760,8 @@
     "mpatrol": {
       "name": "Moon Patrol"
     }, 
-    "dockman": {
-      "name": "Dock Man"
+    "stakwin": {
+      "name": "Stakes Winner / Stakes Winner - GI kinzen seiha e no michi"
     }, 
     "blswhstl": {
       "name": "Bells & Whistles (Version L)"
@@ -5435,8 +6772,8 @@
     "breakers": {
       "name": "Breakers"
     }, 
-    "twinactn": {
-      "name": "Twin Action"
+    "rampart": {
+      "name": "Rampart (Trackball)"
     }, 
     "mschamp": {
       "name": "Ms. Pacman Champion Edition / Zola-Puc Gal"
@@ -5465,6 +6802,9 @@
     "jchan2": {
       "name": "Jackie Chan in Fists of Fire"
     }, 
+    "pangpoms": {
+      "name": "Pang Pom's"
+    }, 
     "gulfstrm": {
       "name": "Gulf Storm (set 1)"
     }, 
@@ -5489,8 +6829,8 @@
     "ddragon": {
       "name": "Double Dragon (Japan)"
     }, 
-    "cloud9": {
-      "name": "Cloud 9 (prototype)"
+    "dstlk": {
+      "name": "Darkstalkers: The Night Warriors (Euro 940705)"
     }, 
     "dcon": {
       "name": "D-Con"
@@ -5507,11 +6847,17 @@
     "boogwing": {
       "name": "Boogie Wings (Euro v1.5, 92.12.07)"
     }, 
+    "ssmissin": {
+      "name": "S.S. Mission"
+    }, 
     "kyustrkr": {
       "name": "Last Striker / Kyuukyoku no Striker"
     }, 
     "snowbro2": {
       "name": "Snow Bros. 2 - With New Elves / Otenki Paradise"
+    }, 
+    "snowbro3": {
+      "name": "Snow Brothers 3 - Magical Adventure"
     }, 
     "puzzledp": {
       "name": "Puzzle De Pon!"
@@ -5522,14 +6868,20 @@
     "kikikai": {
       "name": "KiKi KaiKai"
     }, 
+    "logicpr2": {
+      "name": "Logic Pro 2 (Japan)"
+    }, 
     "kovshp": {
       "name": "Knights of Valour Super Heroes Plus / Sangoku Senki Super Heroes Plus (ver. 101)"
+    }, 
+    "hero": {
+      "name": "Hero"
     }, 
     "bnzabros": {
       "name": "Bonanza Bros (US, Floppy DS3-5000-07d? Based)"
     }, 
-    "poitto": {
-      "name": "Poitto!"
+    "tgm2p": {
+      "name": "Tetris the Absolute The Grand Master 2 Plus"
     }, 
     "jojoban": {
       "name": "JoJo no Kimyou na Bouken: Mirai e no Isan (Japan 990927, NO CD)"
@@ -5545,6 +6897,9 @@
     }, 
     "sharrier": {
       "name": "Space Harrier (Rev A, 8751 315-5163A)"
+    }, 
+    "ganbare": {
+      "name": "Ganbare! Marine Kun (Japan 2K0411)"
     }, 
     "pzloop2j": {
       "name": "Puzz Loop 2 (Japan 010226)"
@@ -5564,11 +6919,11 @@
     "kicker": {
       "name": "Kicker"
     }, 
+    "burningfp": {
+      "name": "Burning Fight (prototype)"
+    }, 
     "blox16b": {
       "name": "blox16b"
-    }, 
-    "gyruss": {
-      "name": "Gyruss"
     }, 
     "argusg": {
       "name": "Argus (Gottlieb, prototype)"
@@ -5578,6 +6933,9 @@
     }, 
     "m660": {
       "name": "Mission 660 (US)"
+    }, 
+    "shootbul": {
+      "name": "Shoot the Bull"
     }, 
     "b2b": {
       "name": "Bang Bang Busters (2010 NCI release)"
@@ -5597,20 +6955,26 @@
     "hwrace": {
       "name": "High Way Race"
     }, 
+    "akumajoun": {
+      "name": "Akuma-Jou Dracula (Japan version N)"
+    }, 
+    "jumpbug": {
+      "name": "Jump Bug"
+    }, 
     "jungler": {
       "name": "Jungler"
     }, 
     "mshu": {
       "name": "Marvel Super Heroes (USA 951024)"
     }, 
-    "legendos": {
-      "name": "Legend of Success Joe / Ashita no Joe Densetsu"
-    }, 
     "armwarr1": {
       "name": "Armored Warriors (Euro 941011)"
     }, 
     "sabotenb": {
       "name": "Saboten Bombers (set 1)"
+    }, 
+    "kikstart": {
+      "name": "Kick Start - Wheelie King"
     }, 
     "swatpolc": {
       "name": "SWAT Police"
@@ -5630,6 +6994,12 @@
     "btlecity": {
       "name": "Vs. Battle City"
     }, 
+    "cps1frog": {
+      "name:": "Frogger"
+    }, 
+    "mrtnt": {
+      "name": "Mr. TNT"
+    }, 
     "3wonders": {
       "name": "Three Wonders (World 910520)"
     }, 
@@ -5642,14 +7012,17 @@
     "diverboy": {
       "name": "Diver Boy"
     }, 
-    "pktgaldx": {
-      "name": "Pocket Gal Deluxe (Euro v3.00)"
+    "shanghai": {
+      "name": "Shanghai (World)"
+    }, 
+    "mpang": {
+      "name": "Mighty! Pang (Euro 001010)"
     }, 
     "hyperspt": {
       "name": "Hyper Sports"
     }, 
-    "ddsomu": {
-      "name": "Dungeons & Dragons: Shadow over Mystara (USA 960619)"
+    "myherok": {
+      "name": "My Hero (Korea)"
     }, 
     "airattck": {
       "name": "Air Attack (set 1)"
@@ -5666,17 +7039,26 @@
     "gundealr": {
       "name": "Gun Dealer"
     }, 
+    "agressb": {
+      "name": "Agress - Missile Daisenryaku (English bootleg)"
+    }, 
     "pleiads": {
       "name": "Pleiads (Tehkan)"
     }, 
     "batridj": {
       "name": "batridj"
     }, 
-    "1944": {
-      "name": "1944: The Loop Master (USA 000620)"
+    "cloud9": {
+      "name": "Cloud 9 (prototype)"
+    }, 
+    "motos": {
+      "name": "Motos"
     }, 
     "p47": {
       "name": "P-47 - The Phantom Fighter (World)"
+    }, 
+    "manybloc": {
+      "name": "Many Block"
     }, 
     "multchmpk": {
       "name": "Multi Champ (Korea)"
@@ -5690,6 +7072,9 @@
     "alpham2": {
       "name": "Alpha Mission II / ASO II - Last Guardian (NGM-007)(NGH-007)"
     }, 
+    "bigkarnk": {
+      "name": "Big Karnak"
+    }, 
     "megaman2": {
       "name": "Mega Man 2: The Power Fighters (USA 960708)"
     }, 
@@ -5699,14 +7084,14 @@
     "sdgndmps": {
       "name": "SD Gundam Psycho Salamander no Kyoui"
     }, 
+    "scramble": {
+      "name": "Scramble"
+    }, 
     "cawing": {
       "name": "Carrier Air Wing (World 901012)"
     }, 
-    "bstars": {
-      "name": "Baseball Stars Professional (NGM-002)"
-    }, 
-    "devilw": {
-      "name": "Devil World"
+    "magdrop2": {
+      "name": "Magical Drop II"
     }, 
     "charlien": {
       "name": "Charlie Ninja"
@@ -5714,14 +7099,17 @@
     "magdrop3": {
       "name": "Magical Drop III"
     }, 
+    "suprmrio": {
+      "name": "Vs. Super Mario Bros. (set SM4-4 E)"
+    }, 
     "bballs": {
       "name": "Bouncing Balls"
     }, 
     "shackled": {
       "name": "Shackled (US)"
     }, 
-    "mappy": {
-      "name": "Mappy (US)"
+    "xmvsfr1": {
+      "name": "X-Men Vs. Street Fighter (Euro 960910)"
     }, 
     "arcadian": {
       "name": "Arcadia (NMK)"
@@ -5729,8 +7117,14 @@
     "ddux": {
       "name": "Dynamite Dux (set 3, World, FD1094 317-0096)"
     }, 
-    "bigkarnk": {
-      "name": "Big Karnak"
+    "ladybugg": {
+      "name": "Lady Bug (bootleg on Galaxian hardware)"
+    }, 
+    "athena": {
+      "name": "Athena"
+    }, 
+    "legendos": {
+      "name": "Legend of Success Joe / Ashita no Joe Densetsu"
     }, 
     "rallybik": {
       "name": "Rally Bike / Dash Yarou"
@@ -5747,11 +7141,17 @@
     "vaportra": {
       "name": "Vapor Trail - Hyper Offence Formation (World revision 1)"
     }, 
+    "wb34": {
+      "name": "Wonder Boy III - Monster Lair (set 4, Japan, System 16B, FD1094 317-0087)"
+    }, 
     "oscar": {
       "name": "Psycho-Nics Oscar (World revision 0)"
     }, 
     "kovplusf": {
       "name": "kovplusf"
+    }, 
+    "sf2m2": {
+      "name": "Street Fighter II': Champion Edition (M2, bootleg)"
     }, 
     "aquajack": {
       "name": "Aqua Jack (World)"
@@ -5759,8 +7159,8 @@
     "gundamex": {
       "name": "Mobile Suit Gundam EX Revue"
     }, 
-    "sailormn": {
-      "name": "Pretty Soldier Sailor Moon (Ver. 95/03/22B, Europe)"
+    "unclepoo": {
+      "name": "Uncle Poo"
     }, 
     "eightman": {
       "name": "Eight Man (NGM-025)(NGH-025)"
@@ -5776,6 +7176,15 @@
     }, 
     "gnbarich": {
       "name": "Gunbarich"
+    }, 
+    "darwin": {
+      "name": "Darwin 4078 (Japan)"
+    }, 
+    "markham": {
+      "name": "Markham"
+    }, 
+    "samsho3h": {
+      "name": "Samurai Shodown III / Samurai Spirits - Zankurou Musouken (NGH-087)"
     }, 
     "kabukikl": {
       "name": "Far East of Eden - Kabuki Klash / Tengai Makyou - Shin Den"
@@ -5804,14 +7213,20 @@
     "montecar": {
       "name": "Monte Carlo"
     }, 
-    "condor": {
-      "name": "Condor (bootleg of Phoenix)"
+    "thegladpcb": {
+      "name": "The Gladiator / Road of the Sword / Shen Jian (M68k label V100) (ARM label V100, ROM 02/25/03 SHEN JIAN) (Japan, JAMMA PCB)"
+    }, 
+    "sparkman": {
+      "name": "Spark Man (v2.0, set 1)"
     }, 
     "ringdest": {
       "name": "Ring of Destruction: Slammasters II (Euro 940902)"
     }, 
     "btlkroad": {
       "name": "Battle K-Road"
+    }, 
+    "mogura": {
+      "name": "Mogura Desse (Japan)"
     }, 
     "scramblb": {
       "name": "Scramble (bootleg on Galaxian hardware)"
@@ -5822,6 +7237,9 @@
     "grdians": {
       "name": "Guardians / Denjin Makai II"
     }, 
+    "mouser": {
+      "name": "Mouser"
+    }, 
     "spy": {
       "name": "S.P.Y. - Special Project Y (World ver. N)"
     }, 
@@ -5831,8 +7249,14 @@
     "shdancer": {
       "name": "Shadow Dancer (World)"
     }, 
+    "jojoan": {
+      "name": "jojoan"
+    }, 
     "88games": {
       "name": "'88 Games"
+    }, 
+    "sf2m5": {
+      "name": "Street Fighter II': Champion Edition (M5, bootleg)"
     }, 
     "paintrlr": {
       "name": "Paint Roller (bootleg of Crush Roller)"
@@ -5842,6 +7266,9 @@
     }, 
     "firehawk": {
       "name": "Fire Hawk (horizontal)"
+    }, 
+    "sf2accp2": {
+      "name": "Street Fighter II': Champion Edition (Accelerator Pt.II, bootleg)"
     }, 
     "macross": {
       "name": "Super Spacefortress Macross / Chou-Jikuu Yousai Macross"
@@ -5855,20 +7282,29 @@
     "3countb": {
       "name": "3 Count Bout / Fire Suplex (NGM-043)(NGH-043)"
     }, 
+    "fantzn2x": {
+      "name": "Fantasy Zone II - The Tears of Opa-Opa (System 16C version)"
+    }, 
     "spacegun": {
       "name": "Space Gun (World)"
     }, 
-    "battlnts": {
-      "name": "Battlantis (program code G)"
+    "ct2k3sp": {
+      "name": "Crouching Tiger Hidden Dragon 2003 Super Plus (The King of Fighters 2001 bootleg)"
     }, 
-    "uccops": {
-      "name": "Undercover Cops (World)"
+    "feversos": {
+      "name": "Fever SOS (International, Ver. 98/09/25)"
+    }, 
+    "bigstrik": {
+      "name": "Big Striker"
     }, 
     "ninjamas": {
       "name": "Ninja Master's - haoh-ninpo-cho"
     }, 
-    "scontra": {
-      "name": "Super Contra"
+    "mystwarr": {
+      "name": "Mystic Warriors (ver EAA)"
+    }, 
+    "pspikes2": {
+      "name": "Power Spikes II (NGM-068)"
     }, 
     "rbff1": {
       "name": "Real Bout Fatal Fury / Real Bout Garou Densetsu (NGM-095)(NGH-095)"
@@ -5876,11 +7312,14 @@
     "speedspn": {
       "name": "Speed Spin"
     }, 
-    "kof99pf": {
-      "name": "kof99pf"
+    "rbff2": {
+      "name": "Real Bout Fatal Fury 2 - The Newcomers / Real Bout Garou Densetsu 2 - the newcomers (NGM-2400)"
     }, 
     "ambushj": {
       "name": "Ambush (Japan)"
+    }, 
+    "cookbib2": {
+      "name": "Cookie & Bibi 2"
     }, 
     "lbowling": {
       "name": "League Bowling (NGM-019)(NGH-019)"
@@ -5888,11 +7327,11 @@
     "mariojp": {
       "name": "mariojp"
     }, 
-    "rezon": {
-      "name": "Rezon"
+    "drtomy": {
+      "name": "Dr. Tomy"
     }, 
-    "vhunt2": {
-      "name": "Vampire Hunter 2: Darkstalkers Revenge (Japan 970929)"
+    "uccops": {
+      "name": "Undercover Cops (World)"
     }, 
     "mslughk": {
       "name": "mslughk"
@@ -5903,8 +7342,8 @@
     "kf2k3bl": {
       "name": "The King of Fighters 2003 (bootleg set 1)"
     }, 
-    "cth2003": {
-      "name": "cth2003"
+    "puzzlove": {
+      "name": "PuzzLove"
     }, 
     "semibase": {
       "name": "MuHanSeungBu (SemiCom Baseball) (Korea)"
@@ -5912,11 +7351,20 @@
     "karnov": {
       "name": "Karnov (US, rev 6)"
     }, 
+    "dynamski": {
+      "name": "Dynamic Ski"
+    }, 
     "vhuntj": {
       "name": "Vampire Hunter: Darkstalkers' Revenge (Japan 950316)"
     }, 
+    "wrestwar": {
+      "name": "Wrestle War (set 3, World, 8751 317-0103)"
+    }, 
     "sidepckt": {
       "name": "Side Pocket (World)"
+    }, 
+    "growl": {
+      "name": "Growl (World, Rev 1)"
     }, 
     "kazan": {
       "name": "Ninja Kazan (World)"
@@ -5924,8 +7372,17 @@
     "brubber": {
       "name": "Burnin' Rubber"
     }, 
+    "zombraid": {
+      "name": "Zombie Raid (9/28/95, US)"
+    }, 
+    "gundl94": {
+      "name": "Gun Dealer '94"
+    }, 
     "bodyslam": {
       "name": "Body Slam (8751 317-0015)"
+    }, 
+    "ddcrewj": {
+      "name": "D. D. Crew (Japan, 4 Players, FD1094 317-0185)"
     }, 
     "excitebk": {
       "name": "Vs. Excitebike (set EB4-4 A)"
@@ -5942,11 +7399,17 @@
     "hunchbks": {
       "name": "Hunchback (Scramble hardware)"
     }, 
+    "twinhawk": {
+      "name": "Twin Hawk (World)"
+    }, 
     "seganinj": {
       "name": "Sega Ninja (315-5102)"
     }, 
-    "wc90": {
-      "name": "Tecmo World Cup '90 (World)"
+    "dquizgo": {
+      "name": "Date Quiz Go Go (Korea)"
+    }, 
+    "rastan": {
+      "name": "Rastan (World Rev 1)"
     }, 
     "s1945ii": {
       "name": "Strikers 1945 II"
@@ -5954,17 +7417,20 @@
     "mslugx": {
       "name": "Metal Slug X - Super Vehicle-001 (NGM-2500)(NGH-2500)"
     }, 
-    "19xx": {
-      "name": "19XX: The War Against Destiny (USA 951207)"
+    "astyanax": {
+      "name": "The Astyanax"
     }, 
     "chelnov": {
       "name": "Chelnov - Atomic Runner (World)"
     }, 
-    "mystwarr": {
-      "name": "Mystic Warriors (ver EAA)"
+    "scontra": {
+      "name": "Super Contra"
     }, 
-    "gunbird2": {
-      "name": "Gunbird 2"
+    "metamrph": {
+      "name": "Metamorphic Force (ver EAA)"
+    }, 
+    "thunderl": {
+      "name": "Thunder & Lightning"
     }, 
     "aof2": {
       "name": "Art of Fighting 2 / Ryuuko no Ken 2 (NGM-056)"
@@ -5996,11 +7462,17 @@
     "solomonj": {
       "name": "Solomon no Kagi (Japan)"
     }, 
+    "rtype": {
+      "name": "R-Type (World)"
+    }, 
     "mslug5pl": {
       "name": "mslug5pl"
     }, 
     "ssprint3": {
       "name": "Super Sprint (rev 3)"
+    }, 
+    "miexchng": {
+      "name": "Money Puzzle Exchanger / Money Idol Exchanger"
     }, 
     "pang3": {
       "name": "Pang! 3 (Euro 950601)"
@@ -6014,8 +7486,14 @@
     "airwolf": {
       "name": "Airwolf"
     }, 
+    "kickoff": {
+      "name": "Kick Off (Japan)"
+    }, 
     "blkheart": {
       "name": "Black Heart"
+    }, 
+    "brain": {
+      "name": "Brain"
     }, 
     "riotcity": {
       "name": "Riot City (Japan)"
@@ -6023,26 +7501,62 @@
     "pang": {
       "name": "Pang (World)"
     }, 
-    "rbff2": {
-      "name": "Real Bout Fatal Fury 2 - The Newcomers / Real Bout Garou Densetsu 2 - the newcomers (NGM-2400)"
+    "kof97evo": {
+      "name": "kof97evo"
+    }, 
+    "rushatck": {
+      "name": "Rush'n Attack (US)"
+    }, 
+    "kovplus": {
+      "name": "Knights of Valour Plus / Sangoku Senki Plus (ver. 119, set 1)"
+    }, 
+    "sbagman": {
+      "name": "Super Bagman"
+    }, 
+    "hardhead": {
+      "name": "Hard Head"
     }, 
     "silkworm": {
       "name": "Silk Worm (World)"
     }, 
-    "twinkle": {
-      "name": "Twinkle"
-    }, 
     "willow": {
       "name": "Willow (World)"
     }, 
+    "dsoccr94": {
+      "name": "Dream Soccer '94 (World, M107 hardware)"
+    }, 
     "spinlbrk": {
       "name": "Spinal Breakers (World)"
+    }, 
+    "svcplus": {
+      "name": "SNK vs. Capcom - SVC Chaos Plus (bootleg set 1)"
     }, 
     "zintrckb": {
       "name": "Zintrick / Oshidashi Zentrix (hack)"
     }, 
     "aliensyn": {
       "name": "Alien Syndrome (set 4, System 16B, unprotected)"
+    }, 
+    "bcstry": {
+      "name": "B.C. Story (set 1)"
+    }, 
+    "chimerab": {
+      "name": "Chimera Beast (prototype)"
+    }, 
+    "robowres": {
+      "name": "Robo Wres 2001"
+    }, 
+    "fpoint": {
+      "name": "Flash Point (set 2, Japan, FD1094 317-0127A)"
+    }, 
+    "spf2xj": {
+      "name": "Super Puzzle Fighter II X (Japan 960531)"
+    }, 
+    "zerowing": {
+      "name": "Zero Wing (2P set)"
+    }, 
+    "wallc": {
+      "name": "Wall Crash (set 1)"
     }, 
     "xmultipl": {
       "name": "X Multiply (World, M81)"
@@ -6074,6 +7588,12 @@
     "gowcaizr": {
       "name": "Voltage Fighter - Gowcaizer / Choujin Gakuen Gowcaizer"
     }, 
+    "chokchok": {
+      "name": "Choky! Choky!"
+    }, 
+    "gimeabrk": {
+      "name": "Gimme A Break (7/7/85)"
+    }, 
     "hcastle": {
       "name": "Haunted Castle (version M)"
     }, 
@@ -6083,11 +7603,20 @@
     "flashgal": {
       "name": "Flashgal (set 1)"
     }, 
-    "utoukond": {
-      "name": "Ultra Toukon Densetsu (Japan)"
+    "rezon": {
+      "name": "Rezon"
+    }, 
+    "joinem": {
+      "name": "Joinem"
     }, 
     "liquidku": {
       "name": "Liquid Kids (US)"
+    }, 
+    "jumpcoas": {
+      "name": "Jump Coaster"
+    }, 
+    "galaxyfg": {
+      "name": "Galaxy Fight - Universal Warriors"
     }, 
     "mwalkbl": {
       "name": "Michael Jackson's Moonwalker (bootleg)"
@@ -6097,6 +7626,9 @@
     }, 
     "spinmast": {
       "name": "Spin Master / Miracle Adventure"
+    }, 
+    "dingo": {
+      "name": "Dingo"
     }, 
     "svolley": {
       "name": "Super Volleyball (Japan)"
@@ -6116,8 +7648,17 @@
     "theglobp": {
       "name": "The Glob (Pac-Man hardware)"
     }, 
-    "chimerab": {
-      "name": "Chimera Beast (prototype)"
+    "twinqix": {
+      "name": "Twin Qix (Ver 1.0A 1995/01/17) (Prototype)"
+    }, 
+    "crusherm": {
+      "name": "Crusher Makochan (Japan)"
+    }, 
+    "congo": {
+      "name": "Congo Bongo (Rev C, 2 board stack)"
+    }, 
+    "sotsugyo": {
+      "name": "Sotsugyo Shousho"
     }, 
     "xmcota": {
       "name": "X-Men: Children of the Atom (Euro 950331)"
@@ -6128,11 +7669,17 @@
     "sf2rb": {
       "name": "Street Fighter II': Champion Edition (Rainbow, bootleg, set 1)"
     }, 
-    "toki": {
-      "name": "Toki (World, set 1)"
+    "rodland": {
+      "name": "Rod-Land (World)"
+    }, 
+    "shinfz": {
+      "name": "Shinobi / FZ-2006 (Korean System 16 bootleg) (ISG Selection Master Type 2006)"
     }, 
     "quartet": {
       "name": "Quartet (Rev A, 8751 315-5194)"
+    }, 
+    "sf2mega": {
+      "name:": "Quick whirlwind 2 - four King"
     }, 
     "puzzldpr": {
       "name": "Puzzle De Pon! R!"
@@ -6149,20 +7696,44 @@
     "galpans2": {
       "name": "Gals Panic S2 (Japan)"
     }, 
-    "puzzlove": {
-      "name": "PuzzLove"
+    "cth2003": {
+      "name": "cth2003"
+    }, 
+    "kof97lb3": {
+      "name:": "The wrath of the crowds of the 97"
     }, 
     "samuraia": {
       "name": "Samurai Aces (World)"
     }, 
+    "cachat": {
+      "name": "Cachat (Japan)"
+    }, 
     "mslug": {
       "name": "Metal Slug - Super Vehicle-001"
     }, 
-    "jojoan": {
-      "name": "jojoan"
+    "gondo": {
+      "name": "Gondomania (US)"
+    }, 
+    "gunbird2": {
+      "name": "Gunbird 2"
+    }, 
+    "pitfall2": {
+      "name": "Pitfall II (315-5093)"
     }, 
     "bmaster": {
       "name": "Blade Master (World)"
+    }, 
+    "mappy": {
+      "name": "Mappy (US)"
+    }, 
+    "progearj": {
+      "name": "Progear no Arashi (Japan 010117)"
+    }, 
+    "cthd2003": {
+      "name": "Crouching Tiger Hidden Dragon 2003 (The King of Fighters 2001 bootleg)"
+    }, 
+    "sboblbob": {
+      "name": "sboblbob"
     }, 
     "crimec": {
       "name": "Crime City (World)"
@@ -6173,6 +7744,9 @@
     "tigeroad": {
       "name": "Tiger Road (US)"
     }, 
+    "stocker": {
+      "name": "Stocker (3/19/85)"
+    }, 
     "viewpoin": {
       "name": "Viewpoint"
     }, 
@@ -6182,26 +7756,26 @@
     "funkyjet": {
       "name": "Funky Jet (World, rev 1)"
     }, 
-    "bloodwar": {
-      "name": "Blood Warrior"
+    "ashnojoe": {
+      "name": "Ashita no Joe (Japan)"
     }, 
     "stagger1": {
       "name": "Stagger I (Japan)"
     }, 
+    "newsin7": {
+      "name": "New Sinbad 7"
+    }, 
     "cth2003p": {
       "name": "cth2003p"
     }, 
-    "jollyjgr": {
-      "name": "Jolly Jogger"
-    }, 
-    "fncywld": {
-      "name": "Fancy World - Earth of Crisis"
+    "spdcoin": {
+      "name": "Speed Coin (prototype)"
     }, 
     "searchp2": {
       "name": "Search Eye Plus V2.0"
     }, 
-    "yiear": {
-      "name": "Yie Ar Kung-Fu (program code I)"
+    "pfghtj": {
+      "name": "Pocket Fighter (Japan 970904)"
     }, 
     "fround": {
       "name": "The Final Round (version M)"
@@ -6245,6 +7819,9 @@
     "slapbtjp": {
       "name": "slapbtjp"
     }, 
+    "cybots": {
+      "name": "Cyberbots: Fullmetal Madness (Euro 950424)"
+    }, 
     "thndrx2": {
       "name": "Thunder Cross II (World)"
     }, 
@@ -6253,6 +7830,12 @@
     }, 
     "svcboot": {
       "name": "SNK vs. Capcom - SVC Chaos (bootleg)"
+    }, 
+    "mp_gaxe2": {
+      "name": "Golden Axe II (Mega Play) (Rev B)"
+    }, 
+    "wits": {
+      "name": "Wit's (Japan)"
     }, 
     "desertbr": {
       "name": "Desert Breaker (World, FD1094 317-0196)"
@@ -6269,8 +7852,14 @@
     "sstriker": {
       "name": "Sorcer Striker (set 1)"
     }, 
+    "wanted": {
+      "name": "Wanted"
+    }, 
     "aso": {
       "name": "ASO - Armored Scrum Object"
+    }, 
+    "mvp": {
+      "name": "MVP (set 2, US, FD1094 317-0143)"
     }, 
     "lwings": {
       "name": "Legendary Wings (US set 1)"
@@ -6284,20 +7873,29 @@
     "shocking": {
       "name": "Shocking"
     }, 
+    "spang": {
+      "name": "Super Pang (World 900914)"
+    }, 
     "dkongjr": {
       "name": "Donkey Kong Junior (US set F-2)"
     }, 
     "bangball": {
       "name": "Bang Bang Ball (v1.05)"
     }, 
-    "vulcan": {
-      "name": "Vulcan Venture (New)"
+    "redrobin": {
+      "name": "Red Robin"
     }, 
     "tdragon2": {
       "name": "Thunder Dragon 2 (9th Nov. 1993)"
     }, 
+    "pipibibs": {
+      "name": "Pipi & Bibis / Whoopee!! (Z80 sound cpu, set 1)"
+    }, 
     "samsho": {
       "name": "Samurai Shodown / Samurai Spirits (NGM-045)"
+    }, 
+    "dragnblz": {
+      "name": "Dragon Blaze"
     }, 
     "lastbld2": {
       "name": "The Last Blade 2 / Bakumatsu Roman - Dai Ni Maku Gekka no Kenshi (NGM-2430)(NGH-2430)"
@@ -6311,8 +7909,14 @@
     "csclub": {
       "name": "Capcom Sports Club (Euro 971017)"
     }, 
+    "birdiy": {
+      "name": "Birdiy"
+    }, 
     "altbeast": {
       "name": "Altered Beast (set 8, 8751 317-0078)"
+    }, 
+    "kof97boss": {
+      "name:": "The King of Fighters '97 boss"
     }, 
     "rbisland": {
       "name": "Rainbow Islands (new version)"
@@ -6320,8 +7924,14 @@
     "captcomm": {
       "name": "Captain Commando (World 911202)"
     }, 
+    "avspirit": {
+      "name": "Avenging Spirit"
+    }, 
     "turfmast": {
       "name": "Neo Turf Masters / Big Tournament Golf"
+    }, 
+    "mp_soni2": {
+      "name": "Sonic The Hedgehog 2 (Mega Play)"
     }, 
     "dino": {
       "name": "Cadillacs and Dinosaurs (World 930201)"
@@ -6347,8 +7957,17 @@
     "rtype2": {
       "name": "R-Type II"
     }, 
-    "congo": {
-      "name": "Congo Bongo (Rev C, 2 board stack)"
+    "gunforce": {
+      "name": "Gunforce - Battle Fire Engulfed Terror Island (World)"
+    }, 
+    "wmatch": {
+      "name": "Water Match (315-5064)"
+    }, 
+    "kog": {
+      "name": "King of Gladiator (The King of Fighters '97 bootleg)"
+    }, 
+    "secretag": {
+      "name": "Secret Agent (World revision 3)"
     }, 
     "wofhfh": {
       "name": "Huo Feng Huang (Chinese bootleg of Sangokushi II)"
@@ -6362,11 +7981,17 @@
     "snapper": {
       "name": "Snapper (Korea)"
     }, 
+    "fbfrenzy": {
+      "name": "Football Frenzy (NGM-034)(NGH-034)"
+    }, 
     "64street": {
       "name": "64th. Street - A Detective Story (World)"
     }, 
     "bangbead": {
       "name": "Bang Bead"
+    }, 
+    "contra": {
+      "name": "Contra (US, set 1)"
     }, 
     "kof01": {
       "name": "kof01"
@@ -6383,8 +8008,8 @@
     "kod": {
       "name": "The King of Dragons (World 910805)"
     }, 
-    "kog": {
-      "name": "King of Gladiator (The King of Fighters '97 bootleg)"
+    "elevator": {
+      "name": "Elevator Action"
     }, 
     "kovplusf2": {
       "name": "kovplusf2"
@@ -6392,8 +8017,14 @@
     "baddudes": {
       "name": "Bad Dudes vs. Dragonninja (US)"
     }, 
-    "contra": {
-      "name": "Contra (US, set 1)"
+    "sf2amf8": {
+      "name:": "Street Fighter II - Champion Edition 8"
+    }, 
+    "tnzs": {
+      "name": "The NewZealand Story (World, new version) (newer PCB)"
+    }, 
+    "wwfsstar": {
+      "name": "WWF Superstars (Europe)"
     }, 
     "digdug2": {
       "name": "Dig Dug II (New Ver.)"
@@ -6413,8 +8044,8 @@
     "mslug3nd": {
       "name": "mslug3nd"
     }, 
-    "sfa3u": {
-      "name": "Street Fighter Alpha 3 (USA 980904)"
+    "eyes": {
+      "name": "Eyes (US set 1)"
     }, 
     "bchopper": {
       "name": "Battle Chopper"
@@ -6431,11 +8062,14 @@
     "rabiolep": {
       "name": "Rabio Lepus (Japan)"
     }, 
+    "kbash2": {
+      "name": "Knuckle Bash 2 (bootleg)"
+    }, 
     "pwrinst2j": {
       "name": "Gouketsuji Ichizoku 2 (Japan, Ver. 94/04/08)"
     }, 
-    "galaga3": {
-      "name": "Galaga 3 (GP3 rev. D)"
+    "kof98ul": {
+      "name": "kof98ul"
     }, 
     "taotaido": {
       "name": "Tao Taido (2 button version)"
@@ -6449,8 +8083,14 @@
     "eswatbl": {
       "name": "E-Swat - Cyber Police (bootleg)"
     }, 
+    "sbishik": {
+      "name": "Super Bishi Bashi Championship (ver KAA, 3 Players)"
+    }, 
     "rimrockn": {
       "name": "Rim Rockin' Basketball (V2.2)"
+    }, 
+    "jumpshot": {
+      "name": "Jump Shot"
     }, 
     "metmqstr": {
       "name": "Metamoqester (International)"
@@ -6458,8 +8098,11 @@
     "gijoe": {
       "name": "G.I. Joe (World, EAB, set 1)"
     }, 
-    "dangar": {
-      "name": "Ufo Robo Dangar (12/1/1986)"
+    "daraku": {
+      "name": "Daraku Tenshi - The Fallen Angels"
+    }, 
+    "hogalley": {
+      "name": "Vs. Hogan's Alley (set HA4-1 E-1)"
     }, 
     "dkong": {
       "name": "Donkey Kong (US set 1)"
@@ -6473,20 +8116,23 @@
     "arkanoid": {
       "name": "Arkanoid (World, oldest rev)"
     }, 
+    "aliensec": {
+      "name": "Alien Sector"
+    }, 
     "dbreed72": {
       "name": "dbreed72"
     }, 
-    "acrobatm": {
-      "name": "Acrobat Mission"
+    "marineb": {
+      "name": "Marine Boy"
     }, 
     "funkyjeta": {
       "name": "Funky Jet (World)"
     }, 
-    "midres": {
-      "name": "Midnight Resistance (World)"
+    "sslam": {
+      "name": "Super Slam (set 1)"
     }, 
-    "theend": {
-      "name": "The End"
+    "mrgoemon": {
+      "name": "Mr. Goemon (Japan)"
     }, 
     "kof98sr": {
       "name": "kof98sr"
@@ -6500,8 +8146,11 @@
     "esckids": {
       "name": "Escape Kids (Asia, 4 Players)"
     }, 
-    "esckidsj": {
-      "name": "Escape Kids (Japan, 2 Players)"
+    "twineagl": {
+      "name": "Twin Eagle - Revenge Joe's Brother"
+    }, 
+    "poitto": {
+      "name": "Poitto!"
     }, 
     "powerinsa": {
       "name": "Power Instinct (USA, bootleg set 1)"
@@ -6530,6 +8179,9 @@
     "circusc": {
       "name": "Circus Charlie (level select, set 1)"
     }, 
+    "flytiger": {
+      "name": "Flying Tiger (set 1)"
+    }, 
     "kf2k3pl": {
       "name": "The King of Fighters 2004 Plus / Hero (The King of Fighters 2003 bootleg)"
     }, 
@@ -6538,6 +8190,9 @@
     }, 
     "rbffspec": {
       "name": "Real Bout Fatal Fury Special / Real Bout Garou Densetsu Special"
+    }, 
+    "sonicbom": {
+      "name": "Sonic Boom (FD1094 317-0053)"
     }, 
     "sf2": {
       "name": "Street Fighter II: The World Warrior (World 910522)"
@@ -6563,17 +8218,23 @@
     "wh2": {
       "name": "World Heroes 2 (ALM-006)(ALH-006)"
     }, 
-    "kof96": {
-      "name": "The King of Fighters '96 (NGM-214)"
+    "roboarmy": {
+      "name": "Robo Army"
+    }, 
+    "actfancr": {
+      "name": "Act-Fancer Cybernetick Hyper Weapon (World revision 2)"
     }, 
     "srdarwin": {
       "name": "Super Real Darwin (World)"
     }, 
+    "battlnts": {
+      "name": "Battlantis (program code G)"
+    }, 
     "nemo": {
       "name": "Nemo (World 901130)"
     }, 
-    "ddpdoj": {
-      "name": "DoDonPachi Dai-Ou-Jou V101 (2002.04.05.Master Ver)"
+    "fcombat": {
+      "name": "Field Combat"
     }, 
     "superman": {
       "name": "Superman (World)"
@@ -6581,8 +8242,17 @@
     "gunbird": {
       "name": "Gunbird (World)"
     }, 
+    "bstars": {
+      "name": "Baseball Stars Professional (NGM-002)"
+    }, 
     "mia": {
       "name": "M.I.A. - Missing in Action (version T)"
+    }, 
+    "mercs": {
+      "name": "Mercs (World 900302)"
+    }, 
+    "tshingen": {
+      "name": "Shingen Samurai-Fighter (Japan, English)"
     }, 
     "mutantf": {
       "name": "Mutant Fighter (World ver EM-5)"
@@ -6593,6 +8263,18 @@
     "myhero": {
       "name": "My Hero (US, not encrypted)"
     }, 
+    "srumbler": {
+      "name": "The Speed Rumbler (set 1)"
+    }, 
+    "gghost": {
+      "name": "Goalie Ghost"
+    }, 
+    "panicbom": {
+      "name": "Panic Bomber"
+    }, 
+    "checkman": {
+      "name": "Check Man"
+    }, 
     "astorm": {
       "name": "Alien Storm (World, 2 Players, FD1094 317-0154)"
     }, 
@@ -6601,6 +8283,9 @@
     }, 
     "gotcha": {
       "name": "Got-cha Mini Game Festival"
+    }, 
+    "fantzone": {
+      "name": "Fantasy Zone (Rev A, unprotected)"
     }, 
     "kof02m2": {
       "name": "kof02m2"
@@ -6611,14 +8296,35 @@
     "kof02m1": {
       "name": "kof02m1"
     }, 
+    "potopoto": {
+      "name": "Poto Poto (Japan)"
+    }, 
+    "sfx": {
+      "name": "SF-X"
+    }, 
+    "champwr": {
+      "name": "Champion Wrestler (World)"
+    }, 
+    "madgear": {
+      "name": "Mad Gear (US)"
+    }, 
+    "gpilots": {
+      "name": "Ghost Pilots (NGM-020)(NGH-020)"
+    }, 
     "sf2ce": {
       "name": "Street Fighter II': Champion Edition (World 920513)"
     }, 
     "eightfrc": {
       "name": "Eight Forces"
     }, 
-    "msgundam": {
-      "name": "Mobile Suit Gundam"
+    "zigzag": {
+      "name": "Zig Zag (Galaxian hardware, set 1)"
+    }, 
+    "mcatadv": {
+      "name": "Magical Cat Adventure"
+    }, 
+    "lotlot": {
+      "name": "Lot Lot"
     }, 
     "mooncrst": {
       "name": "Moon Cresta (Nichibutsu)"
@@ -6626,14 +8332,17 @@
     "whp": {
       "name": "World Heroes Perfect"
     }, 
+    "asterixaad": {
+      "name": "Asterix (ver AAD)"
+    }, 
     "arabianm": {
       "name": "Arabian Magic (Ver 1.0O 1992/07/06)"
     }, 
     "multchmp": {
       "name": "Multi Champ (World, ver. 2.5)"
     }, 
-    "tankfrce": {
-      "name": "Tank Force (US, 2 Player)"
+    "playball": {
+      "name": "PlayBall! (prototype)"
     }, 
     "superpac": {
       "name": "Super Pac-Man"
@@ -6665,6 +8374,9 @@
     "ganryu": {
       "name": "Ganryu / Musashi Ganryuki"
     }, 
+    "metafox": {
+      "name": "Meta Fox"
+    }, 
     "rohga": {
       "name": "Rohga Armor Force (Asia/Europe v5.0)"
     }, 
@@ -6677,17 +8389,23 @@
     "kotm2": {
       "name": "King of the Monsters 2 - The Next Thing (NGM-039)(NGH-039)"
     }, 
+    "quizdai2": {
+      "name": "Quiz Meitantei Neo & Geo - Quiz Daisousa Sen part 2 (NGM-042)(NGH-042)"
+    }, 
     "olds103t": {
       "name": "Oriental Legend Special / Xi You Shi E Zhuan Super (ver. 103, China, Tencent) (unprotected)"
     }, 
     "ddcrew": {
       "name": "D. D. Crew (World, 3 Players, FD1094 317-0190)"
     }, 
-    "milliped": {
-      "name": "Millipede"
+    "pengo": {
+      "name": "Pengo (set 1 rev c)"
     }, 
     "mia2": {
       "name": "M.I.A. - Missing in Action (version S)"
+    }, 
+    "rockrage": {
+      "name": "Rock'n Rage (World)"
     }, 
     "ladyfrog": {
       "name": "Lady Frog"
@@ -6695,11 +8413,17 @@
     "sf": {
       "name": "Street Fighter (US, set 1)"
     }, 
+    "samsho2k": {
+      "name": "Saulabi Spirits / Jin Saulabi Tu Hon (Korean release of Samurai Shodown II)"
+    }, 
     "kof97bdq": {
       "name": "kof97bdq"
     }, 
     "kof2000n": {
       "name": "The King of Fighters 2000 (not encrypted)"
+    }, 
+    "diggerma": {
+      "name": "Digger Man (prototype)"
     }, 
     "insectx": {
       "name": "Insector X (World)"
@@ -6719,6 +8443,9 @@
     "dinorex": {
       "name": "Dino Rex (World)"
     }, 
+    "vsskykid": {
+      "name": "Vs. Super SkyKid"
+    }, 
     "tantrkor": {
       "name": "Puzzle & Action: Tant-R (Korea)"
     }, 
@@ -6731,6 +8458,9 @@
     "ssoldier": {
       "name": "Superior Soldiers (US)"
     }, 
+    "1943": {
+      "name": "1943: The Battle of Midway (Euro)"
+    }, 
     "sonson": {
       "name": "Son Son"
     }, 
@@ -6739,6 +8469,9 @@
     }, 
     "naname": {
       "name": "Naname de Magic! (Japan)"
+    }, 
+    "samsho2": {
+      "name": "Samurai Shodown II / Shin Samurai Spirits - Haohmaru jigokuhen (NGM-063)(NGH-063)"
     }, 
     "asylum": {
       "name": "Asylum (prototype)"
@@ -6761,14 +8494,20 @@
     "nemesis": {
       "name": "Nemesis (ROM version)"
     }, 
+    "woodpeck": {
+      "name": "Woodpecker (set 1)"
+    }, 
     "ryujin": {
       "name": "Ryu Jin (Japan)"
     }, 
     "rambo3p": {
       "name": "Rambo III (Europe, Proto?)"
     }, 
-    "bcstry": {
-      "name": "B.C. Story (set 1)"
+    "yamyam": {
+      "name": "Yam! Yam!?"
+    }, 
+    "asterix": {
+      "name": "Asterix (ver EAD)"
     }, 
     "sfa2u": {
       "name": "Street Fighter Alpha 2 (USA 960430)"
@@ -6782,8 +8521,11 @@
     "wh1h": {
       "name": "World Heroes (ALH-005)"
     }, 
-    "sf2m5": {
-      "name": "Street Fighter II': Champion Edition (M5, bootleg)"
+    "aztarac": {
+      "name": "Aztarac"
+    }, 
+    "combh": {
+      "name": "Combat Hawk"
     }, 
     "sf2m4": {
       "name": "Street Fighter II': Champion Edition (M4, bootleg)"
@@ -6794,26 +8536,35 @@
     "sf2m6": {
       "name": "Street Fighter II': Champion Edition (M6, bootleg)"
     }, 
-    "kof02sp": {
-      "name": "kof02sp"
-    }, 
-    "sf2m2": {
-      "name": "Street Fighter II': Champion Edition (M2, bootleg)"
+    "lkage": {
+      "name": "The Legend of Kage"
     }, 
     "gigawing": {
       "name": "Giga Wing (USA 990222)"
     }, 
-    "darwin": {
-      "name": "Darwin 4078 (Japan)"
+    "wlstar": {
+      "name": "Wonder League Star - Sok-Magicball Fighting (Korea)"
     }, 
-    "stakwin": {
-      "name": "Stakes Winner / Stakes Winner - GI kinzen seiha e no michi"
+    "condor": {
+      "name": "Condor (bootleg of Phoenix)"
     }, 
-    "superx": {
-      "name": "Super-X (NTC)"
+    "columns": {
+      "name": "Columns (World)"
     }, 
-    "kovplus": {
-      "name": "Knights of Valour Plus / Sangoku Senki Plus (ver. 119, set 1)"
+    "wc90": {
+      "name": "Tecmo World Cup '90 (World)"
+    }, 
+    "fantzonep": {
+      "name": "Fantasy Zone (317-5000)"
+    }, 
+    "sf2ceeab2": {
+      "name:": "Street Fighter II' - Champion Edition 2"
+    }, 
+    "triplfun": {
+      "name": "Triple Fun"
+    }, 
+    "suprleag": {
+      "name": "Super League (FD1094 317-0045)"
     }, 
     "vsav": {
       "name": "Vampire Savior: The Lord of Vampire (Euro 970519)"
@@ -6821,14 +8572,32 @@
     "uccopsj": {
       "name": "Undercover Cops (Japan)"
     }, 
+    "strhoop": {
+      "name": "Street Hoop / Street Slam / Dunk Dream (DEM-004)(DEH-004)"
+    }, 
     "dkong3b": {
       "name": "Donkey Kong 3 (bootleg on Donkey Kong Jr. hardware)"
     }, 
     "shocktr2": {
       "name": "Shock Troopers - 2nd Squad"
     }, 
+    "superspy": {
+      "name": "The Super Spy (NGM-011)(NGH-011)"
+    }, 
+    "volfied": {
+      "name": "Volfied (World, revision 1)"
+    }, 
+    "amazon": {
+      "name": "Soldier Girl Amazon"
+    }, 
     "ssi": {
       "name": "Super Space Invaders '91 (World, Rev 1)"
+    }, 
+    "logicpro": {
+      "name": "Logic Pro (Japan)"
+    }, 
+    "progress": {
+      "name": "Progress"
     }, 
     "burglarx": {
       "name": "Burglar X"
@@ -6836,17 +8605,23 @@
     "slapshot": {
       "name": "Slap Shot (Japan)"
     }, 
+    "kicknrun": {
+      "name": "Kick and Run (World)"
+    }, 
     "kov2106": {
       "name": "Knights of Valour 2 / Sangoku Senki 2 (ver. 106, 102, 100HK)"
     }, 
     "ssf2t": {
       "name": "Super Street Fighter II Turbo (World 940223)"
     }, 
-    "galaxyfg": {
-      "name": "Galaxy Fight - Universal Warriors"
+    "tetrisp2": {
+      "name": "Tetris Plus 2 (World)"
     }, 
-    "sboblbob": {
-      "name": "sboblbob"
+    "crshrace": {
+      "name": "Lethal Crash Race (set 1)"
+    }, 
+    "passsht": {
+      "name": "Passing Shot (World, 2 Players, FD1094 317-0080)"
     }, 
     "twincobr": {
       "name": "Twin Cobra (World)"
@@ -6854,14 +8629,17 @@
     "sengoku2": {
       "name": "Sengoku 2 / Sengoku Denshou 2"
     }, 
-    "wbmlb": {
-      "name": "Wonder Boy in Monster Land (English bootleg set 1)"
+    "sqbert": {
+      "name": "Faster, Harder, More Challenging Q*bert (prototype)"
     }, 
-    "progearj": {
-      "name": "Progear no Arashi (Japan 010117)"
+    "gigandes": {
+      "name": "Gigandes"
     }, 
     "ninjakd2": {
       "name": "Ninja-Kid II / NinjaKun Ashura no Shou (set 1)"
+    }, 
+    "dragngun": {
+      "name": "Dragon Gun (US)"
     }, 
     "junofrst": {
       "name": "Juno First"
@@ -6869,8 +8647,11 @@
     "zingzip": {
       "name": "Zing Zing Zip"
     }, 
-    "karnovr": {
-      "name": "Karnov's Revenge / Fighter's History Dynamite"
+    "lomakai": {
+      "name": "Legend of Makai (World)"
+    }, 
+    "jchan": {
+      "name": "Jackie Chan - The Kung-Fu Master"
     }, 
     "mysticri": {
       "name": "Mystic Riders (World)"
@@ -6887,29 +8668,56 @@
     "exerion": {
       "name": "Exerion"
     }, 
-    "mercs": {
-      "name": "Mercs (World 900302)"
+    "acrobatm": {
+      "name": "Acrobat Mission"
+    }, 
+    "streetsm": {
+      "name": "Street Smart (US version 2)"
     }, 
     "crimfght": {
       "name": "Crime Fighters (US 4 players)"
     }, 
+    "racknrol": {
+      "name": "Rack + Roll"
+    }, 
     "bjourney": {
       "name": "Blue's Journey / Raguy (ALM-001)(ALH-001)"
+    }, 
+    "vhunt2": {
+      "name": "Vampire Hunter 2: Darkstalkers Revenge (Japan 970929)"
     }, 
     "darktowr": {
       "name": "Dark Tower"
     }, 
+    "peekaboo": {
+      "name": "Peek-a-Boo!"
+    }, 
     "atomicp": {
       "name": "Atomic Point (Korea)"
     }, 
-    "jumpbug": {
-      "name": "Jump Bug"
+    "freeze": {
+      "name": "Freeze"
     }, 
-    "lans2k4d": {
-      "name": "lans2k4d"
+    "wwallyj": {
+      "name": "Wally wo Sagase! (rev B, Japan, FD1094 317-0197B)"
+    }, 
+    "dangar": {
+      "name": "Ufo Robo Dangar (12/1/1986)"
+    }, 
+    "theend": {
+      "name": "The End"
     }, 
     "neodrift": {
       "name": "Neo Drift Out - New Technology"
+    }, 
+    "kidniki": {
+      "name": "Kid Niki - Radical Ninja (World)"
+    }, 
+    "fghtbskt": {
+      "name": "Fighting Basketball"
+    }, 
+    "mario": {
+      "name": "Mario Bros. (US, Revision F)"
     }, 
     "moremore": {
       "name": "More More"
@@ -6919,6 +8727,9 @@
     }, 
     "iceclimb": {
       "name": "Vs. Ice Climber (set IC4-4 B-1)"
+    }, 
+    "1944": {
+      "name": "1944: The Loop Master (USA 000620)"
     }, 
     "onna34ro": {
       "name": "Onna Sansirou - Typhoon Gal (set 1)"
@@ -6935,14 +8746,17 @@
     "moremorp": {
       "name": "More More Plus"
     }, 
-    "bombkick": {
-      "name": "Bomb Kick (set 1)"
+    "wboy2": {
+      "name": "Wonder Boy (set 2, 315-5178)"
     }, 
     "batsuguna": {
       "name": "Batsugun (older set)"
     }, 
-    "asterix": {
-      "name": "Asterix (ver EAD)"
+    "wboy4": {
+      "name": "Wonder Boy (315-5162, 4-D Warriors Conversion)"
+    }, 
+    "superx": {
+      "name": "Super-X (NTC)"
     }, 
     "pbobblen": {
       "name": "Puzzle Bobble / Bust-A-Move (Neo-Geo) (NGM-083)"
@@ -6950,17 +8764,26 @@
     "kof98m": {
       "name": "kof98m"
     }, 
+    "lastday": {
+      "name": "The Last Day (set 1)"
+    }, 
     "ctribeb": {
       "name": "The Combatribes (bootleg set 1)"
     }, 
     "wof": {
       "name": "Warriors of Fate (World 921031)"
     }, 
-    "jchan": {
-      "name": "Jackie Chan - The Kung-Fu Master"
+    "duckhunt": {
+      "name": "Vs. Duck Hunt (set DH3 E)"
     }, 
-    "streetsm": {
-      "name": "Street Smart (US version 2)"
+    "flstory": {
+      "name": "The FairyLand Story"
+    }, 
+    "sf2koryu3": {
+      "name:": "Street Fighter II' - Xiang Long"
+    }, 
+    "supbtime": {
+      "name": "Super Burger Time (World, set 1)"
     }, 
     "burningf": {
       "name": "Burning Fight (NGM-018)(NGH-018)"
@@ -6983,11 +8806,17 @@
     "bestbest": {
       "name": "Best Of Best"
     }, 
+    "goldmedl": {
+      "name": "Gold Medalist (set 1)"
+    }, 
     "strider": {
       "name": "Strider (USA, B-Board 89624B-2)"
     }, 
-    "stakwin2": {
-      "name": "Stakes Winner 2"
+    "columns2": {
+      "name": "Columns II: The Voyage Through Time (World)"
+    }, 
+    "neothndr": {
+      "name:": "Gundam Neo Battling"
     }, 
     "blazeon": {
       "name": "Blaze On (Japan)"
@@ -6998,14 +8827,20 @@
     "badlands": {
       "name": "Bad Lands"
     }, 
-    "superspy": {
-      "name": "The Super Spy (NGM-011)(NGH-011)"
+    "triothep": {
+      "name": "Trio The Punch - Never Forget Me... (World)"
+    }, 
+    "bagman": {
+      "name": "Bagman"
     }, 
     "finalttr": {
       "name": "Final Tetris"
     }, 
-    "pnyaa": {
-      "name": "Pochi and Nyaa"
+    "karatblz": {
+      "name": "Karate Blazers (World)"
+    }, 
+    "kof02sp": {
+      "name": "kof02sp"
     }, 
     "3in1semi": {
       "name": "XESS - The New Revolution (SemiCom 3-in-1)"
@@ -7013,32 +8848,53 @@
     "mazinger": {
       "name": "Mazinger Z (World)"
     }, 
-    "ddonpach": {
-      "name": "DoDonPachi (International, Master Ver. 97/02/05)"
+    "nmouse": {
+      "name": "Naughty Mouse (set 1)"
+    }, 
+    "nastar": {
+      "name": "Nastar (World)"
     }, 
     "sf2tj": {
       "name": "sf2tj"
     }, 
+    "mjgtaste": {
+      "name": "Mahjong G-Taste"
+    }, 
     "truxton2": {
       "name": "Truxton II / Tatsujin Oh"
     }, 
-    "drmario": {
-      "name": "Vs. Dr. Mario"
+    "stakwin2": {
+      "name": "Stakes Winner 2"
     }, 
     "rollerg": {
       "name": "Rollergames (US)"
     }, 
-    "calipso": {
-      "name": "Calipso"
+    "drmario": {
+      "name": "Vs. Dr. Mario"
+    }, 
+    "pbobble3": {
+      "name": "Puzzle Bobble 3 (Ver 2.1O 1996/09/27)"
+    }, 
+    "pbobble4": {
+      "name": "Puzzle Bobble 4 (Ver 2.04O 1997/12/19)"
+    }, 
+    "cluclu": {
+      "name": "Vs. Clu Clu Land"
     }, 
     "bouldash": {
       "name": "Boulder Dash / Boulder Dash Part 2 (World)"
     }, 
-    "sonicwi2": {
-      "name": "Aero Fighters 2 / Sonic Wings 2"
+    "blueprnt": {
+      "name": "Blue Print (Midway)"
+    }, 
+    "tnk3": {
+      "name": "T.N.K III (US)"
     }, 
     "sonicwi3": {
       "name": "Aero Fighters 3 / Sonic Wings 3"
+    }, 
+    "spatter": {
+      "name": "Spatter"
     }, 
     "vsav2": {
       "name": "Vampire Savior 2: The Lord of Vampire (Japan 970913)"
@@ -7049,17 +8905,20 @@
     "gunforc2": {
       "name": "Gun Force II (US)"
     }, 
+    "ufosensi": {
+      "name": "Ufo Senshi Yohko Chan (MC-8123, 317-0064)"
+    }, 
     "aquarium": {
       "name": "Aquarium (Japan)"
     }, 
     "flipshot": {
       "name": "Battle Flip Shot"
     }, 
-    "spang": {
-      "name": "Super Pang (World 900914)"
+    "bongo": {
+      "name": "Bongo"
     }, 
-    "cabal": {
-      "name": "Cabal (World, Joystick version)"
+    "shadowld": {
+      "name": "Shadowland (YD3)"
     }, 
     "sbomberb": {
       "name": "sbomberb"
@@ -7082,11 +8941,17 @@
     "forgottnu": {
       "name": "Forgotten Worlds (USA, B-Board 88621B-2, Rev. C)"
     }, 
+    "sf2rb4": {
+      "name:": "Street Fighter II' - Champion Edition 4"
+    }, 
     "galpani2": {
       "name": "Gals Panic II (Asia)"
     }, 
     "blktiger": {
       "name": "Black Tiger"
+    }, 
+    "cuebrick": {
+      "name": "Cue Brick (World version D)"
     }, 
     "kurikint": {
       "name": "Kuri Kinton (World)"
@@ -7097,26 +8962,35 @@
     "gomoku": {
       "name": "Gomoku Narabe Renju"
     }, 
+    "bublbobl": {
+      "name": "Bubble Bobble (Japan, Ver 0.1)"
+    }, 
     "kof99p": {
       "name": "The King of Fighters '99 - Millennium Battle (prototype)"
     }, 
     "mrdo": {
       "name": "Mr. Do!"
     }, 
-    "punisher": {
-      "name": "The Punisher (World 930422)"
+    "twinfalc": {
+      "name": "Twin Falcons"
+    }, 
+    "btime": {
+      "name": "Burger Time (Data East set 1)"
     }, 
     "maddonna": {
       "name": "Mad Donna (set 1)"
     }, 
-    "spf2xj": {
-      "name": "Super Puzzle Fighter II X (Japan 960531)"
+    "ginganin": {
+      "name": "Ginga NinkyouDen (set 1)"
     }, 
-    "kof97evo": {
-      "name": "kof97evo"
+    "pnyaa": {
+      "name": "Pochi and Nyaa"
     }, 
-    "genix": {
-      "name": "Genix Family"
+    "mj4simai": {
+      "name": "Wakakusamonogatari Mahjong Yonshimai (Japan)"
+    }, 
+    "chukatai": {
+      "name": "Chuka Taisen (World)"
     }, 
     "ladybug": {
       "name": "Lady Bug"
@@ -7127,14 +9001,23 @@
     "dynwar": {
       "name": "Dynasty Wars (USA, B-Board 89624B-?)"
     }, 
-    "gradius3": {
-      "name": "Gradius III (World, program code R)"
+    "goldnaxe": {
+      "name": "Golden Axe (set 6, US, 8751 317-123A)"
     }, 
-    "scramble": {
-      "name": "Scramble"
+    "ppchamp": {
+      "name": "Pasha Pasha Champ Mini Game Festival (Korea)"
+    }, 
+    "todruaga": {
+      "name": "The Tower of Druaga (New Ver.)"
     }, 
     "breakrev": {
       "name": "Breakers Revenge"
+    }, 
+    "bishi": {
+      "name": "Bishi Bashi Championship Mini Game Senshuken (ver JAA, 3 Players)"
+    }, 
+    "ddonpach": {
+      "name": "DoDonPachi (International, Master Ver. 97/02/05)"
     }, 
     "higemaru": {
       "name": "Pirate Ship Higemaru"
@@ -7145,6 +9028,9 @@
     "galpanic": {
       "name": "Gals Panic (Unprotected)"
     }, 
+    "elvactr": {
+      "name": "Elevator Action Returns (Ver 2.2O 1995/02/20)"
+    }, 
     "4in1boot": {
       "name": "Puzzle King (PacMan 2, Tetris, HyperMan 2, Snow Bros.)"
     }, 
@@ -7154,17 +9040,23 @@
     "shippumd": {
       "name": "Shippu Mahou Daisakusen (Japan)"
     }, 
+    "xorworld": {
+      "name": "Xor World (prototype)"
+    }, 
     "quizdaisk": {
       "name": "Quiz Daisousa Sen - The Last Count Down (Korean release)"
     }, 
-    "checkman": {
-      "name": "Check Man"
+    "squash": {
+      "name": "Squash (Ver. 1.0)"
+    }, 
+    "cavelon": {
+      "name": "Cavelon"
     }, 
     "pulstar": {
       "name": "Pulstar"
     }, 
-    "martmast": {
-      "name": "Martial Masters (ver. 104, 102, 102US)"
+    "kotm": {
+      "name": "King of the Monsters (set 1)"
     }, 
     "bionicc": {
       "name": "Bionic Commando (Euro)"
@@ -7187,8 +9079,17 @@
     "astrob": {
       "name": "Astro Blaster (version 3)"
     }, 
+    "wrofaero": {
+      "name": "War of Aero - Project MEIOU"
+    }, 
+    "bullfgt": {
+      "name": "Bullfight (315-5065)"
+    }, 
     "trojan": {
       "name": "Trojan (US set 1)"
+    }, 
+    "zedblade": {
+      "name": "Zed Blade / Operation Ragnarok"
     }, 
     "kof97ps": {
       "name": "kof97ps"
@@ -7196,23 +9097,38 @@
     "joyjoy": {
       "name": "Puzzled / Joy Joy Kid (NGM-021)(NGH-021)"
     }, 
-    "valkyrie": {
-      "name": "Valkyrie No Densetsu (Japan)"
+    "plumppop": {
+      "name": "Plump Pop (Japan)"
     }, 
-    "miexchng": {
-      "name": "Money Puzzle Exchanger / Money Idol Exchanger"
+    "chameleo": {
+      "name": "Chameleon"
     }, 
-    "rtype": {
-      "name": "R-Type (World)"
+    "robocopb2": {
+      "name:": "Robocop 1"
     }, 
     "mustangs": {
       "name": "US AAF Mustang (25th May. 1990 / Seoul Trading)"
     }, 
+    "psurge": {
+      "name": "Power Surge"
+    }, 
+    "gardia": {
+      "name": "Gardia (317-0006)"
+    }, 
+    "svcsplus": {
+      "name": "SNK vs. Capcom - SVC Chaos Super Plus (bootleg)"
+    }, 
+    "wcvol95": {
+      "name": "World Cup Volley '95 (Japan v1.0)"
+    }, 
     "ncommand": {
       "name": "Ninja Commando"
     }, 
-    "ssmissin": {
-      "name": "S.S. Mission"
+    "pururun": {
+      "name": "Pururun"
+    }, 
+    "sranger": {
+      "name": "Super Ranger (v2.0)"
     }, 
     "pairsnb": {
       "name": "Pairs (Nichibutsu) (Japan 890822)"
@@ -7238,8 +9154,11 @@
     "atetris": {
       "name": "Tetris (set 1)"
     }, 
-    "ohmygod": {
-      "name": "Oh My God! (Japan)"
+    "bloodwar": {
+      "name": "Blood Warrior"
+    }, 
+    "thedeep": {
+      "name": "The Deep (Japan)"
     }, 
     "popbounc": {
       "name": "Pop 'n Bounce / Gapporin"
@@ -7250,50 +9169,83 @@
     "kof99plus": {
       "name": "kof99plus"
     }, 
+    "ddribble": {
+      "name": "Double Dribble"
+    }, 
+    "bombkick": {
+      "name": "Bomb Kick (set 1)"
+    }, 
     "sf2tlona": {
       "name": "sf2tlona"
+    }, 
+    "fghthist": {
+      "name": "Fighter's History (World ver 43-07, DE-0380-2 PCB)"
     }, 
     "bonkadv": {
       "name": "B.C. Kid / Bonk's Adventure / Kyukyoku!! PC Genjin"
     }, 
-    "bucky": {
-      "name": "Bucky O'Hare (ver EAB)"
+    "mwalkbl2": {
+      "name:": "Michael Jackson"
+    }, 
+    "kickridr": {
+      "name": "Kick Rider"
+    }, 
+    "mosyougi": {
+      "name": "Syougi No Tatsujin - Master of Syougi"
     }, 
     "jumppop": {
       "name": "Jumping Pop (set 1)"
     }, 
-    "mugsmash": {
-      "name": "Mug Smashers"
+    "sengok3n": {
+      "name": "sengok3n"
     }, 
     "donpachi": {
       "name": "DonPachi (US)"
     }, 
+    "goonies": {
+      "name": "Vs. The Goonies (set E)"
+    }, 
     "knightsh": {
       "name": "knightsh"
     }, 
-    "bigstrik": {
-      "name": "Big Striker"
+    "boggy84": {
+      "name": "Boggy '84"
     }, 
-    "mp_soni2": {
-      "name": "Sonic The Hedgehog 2 (Mega Play)"
+    "rdaction": {
+      "name": "Rad Action / NinjaKun Ashura no Shou"
+    }, 
+    "mgcrystlo": {
+      "name": "Magical Crystals (World, 91/12/10)"
     }, 
     "blockhl": {
       "name": "Block Hole"
     }, 
-    "growl": {
-      "name": "Growl (World, Rev 1)"
+    "gladiatr": {
+      "name": "Gladiator (US)"
+    }, 
+    "sbishi": {
+      "name": "Super Bishi Bashi Championship (ver JAA, 2 Players)"
     }, 
     "1945kiii": {
       "name": "1945k III"
     }, 
-    "hotdogst": {
-      "name": "Hotdog Storm (International)"
+    "slapfighb1": {
+      "name": "Slap Fight (bootleg set 1)"
+    }, 
+    "plotting": {
+      "name": "Plotting (World set 1)"
+    }, 
+    "tharrier": {
+      "name": "Task Force Harrier"
+    }, 
+    "sonicwi2": {
+      "name": "Aero Fighters 2 / Sonic Wings 2"
     }, 
     "thundfox": {
       "name": "Thunder Fox (World)"
     }, 
-    "ginganin": {
-      "name": "Ginga NinkyouDen (set 1)"
+    "ddpdoj": {
+      "name": "DoDonPachi Dai-Ou-Jou V101 (2002.04.05.Master Ver)"
     }, 
     "aof": {
       "name": "Art of Fighting / Ryuuko no Ken (NGM-044)(NGH-044)"
@@ -7304,17 +9256,20 @@
     "tumblep": {
       "name": "Tumble Pop (World)"
     }, 
+    "gunmast": {
+      "name": "Gun Master"
+    }, 
     "1943u": {
       "name": "1943: The Battle of Midway (US, Rev C)"
     }, 
-    "chokchok": {
-      "name": "Choky! Choky!"
+    "pickin": {
+      "name": "Pickin'"
     }, 
     "pbaction": {
       "name": "Pinball Action (set 1)"
     }, 
-    "flytiger": {
-      "name": "Flying Tiger (set 1)"
+    "kovshxas": {
+      "name": "Knights of Valour: Aoshi Sanguo / Sangoku Senki: Aoshi Sanguo (ver. 202CN)"
     }, 
     "ninjakun": {
       "name": "Ninjakun Majou no Bouken"
@@ -7331,11 +9286,20 @@
     "shocktro": {
       "name": "Shock Troopers (set 1)"
     }, 
+    "hypsptsp": {
+      "name": "Hyper Sports Special (Japan)"
+    }, 
     "kof99combo": {
       "name": "kof99combo"
     }, 
+    "ldrun4": {
+      "name": "Lode Runner IV - Teikoku Karano Dasshutsu (Japan)"
+    }, 
     "kof97c": {
       "name": "kof97c"
+    }, 
+    "ultraman": {
+      "name": "Ultraman (Japan)"
     }, 
     "umanclub": {
       "name": "Ultraman Club - Tatakae! Ultraman Kyoudai!!"
@@ -7349,17 +9313,23 @@
     "ddp2": {
       "name": "DoDonPachi II - Bee Storm (World, ver. 102)"
     }, 
+    "sqix": {
+      "name": "Super Qix (World, Rev 2)"
+    }, 
     "quizo": {
       "name": "Quiz Olympic (set 1)"
     }, 
-    "pgoal": {
-      "name": "Pleasure Goal / Futsal - 5 on 5 Mini Soccer (NGM-219)"
+    "intrepid": {
+      "name": "Intrepid (set 1)"
     }, 
-    "shinfz": {
-      "name": "Shinobi / FZ-2006 (Korean System 16 bootleg) (ISG Selection Master Type 2006)"
+    "pitfight": {
+      "name": "Pit Fighter (rev 9)"
     }, 
-    "avspirit": {
-      "name": "Avenging Spirit"
+    "pingpong": {
+      "name": "Konami's Ping-Pong"
+    }, 
+    "calibr50": {
+      "name": "Caliber 50"
     }, 
     "nrallyx": {
       "name": "New Rally X"
@@ -7376,14 +9346,23 @@
     "spf2t": {
       "name": "Super Puzzle Fighter II Turbo (USA 960620)"
     }, 
-    "pspikes2": {
-      "name": "Power Spikes II (NGM-068)"
+    "sbomber": {
+      "name": "Space Bomber (ver. B)"
     }, 
-    "kof98ul": {
-      "name": "kof98ul"
+    "mp_bio": {
+      "name": "Bio-hazard Battle (Mega Play)"
     }, 
-    "1943kai": {
-      "name": "1943 Kai: Midway Kaisen (Japan)"
+    "ddsom": {
+      "name": "Dungeons & Dragons: Shadow over Mystara (Euro 960619)"
+    }, 
+    "crimfghtj": {
+      "name": "Crime Fighters (Japan 2 Players)"
+    }, 
+    "genix": {
+      "name": "Genix Family"
+    }, 
+    "sbrkout": {
+      "name": "Super Breakout (rev 04)"
     }, 
     "metlsavr": {
       "name": "Metal Saver"
@@ -7397,11 +9376,14 @@
     "xyonix": {
       "name": "Xyonix"
     }, 
-    "bowlrama": {
-      "name": "Bowl-O-Rama"
+    "sf2ceuabl": {
+      "name:": "Street Fighter II' - Champion Edition 1"
     }, 
     "dharma": {
       "name": "Dharma Doujou"
+    }, 
+    "chaknpop": {
+      "name": "Chack'n Pop"
     }, 
     "kovytzy": {
       "name": "Knights of Valour: Yi Tong Zhong Yuan  / Sangoku Senki: Yi Tong Zhong Yuan (ver. 201, China)"
@@ -7415,6 +9397,9 @@
     "mangchi": {
       "name": "Mang-Chi"
     }, 
+    "karianx": {
+      "name": "Karian Cross (Rev. 1.0)"
+    }, 
     "marvland": {
       "name": "Marvel Land (US)"
     }, 
@@ -7424,8 +9409,8 @@
     "gwar": {
       "name": "Guerrilla War (US)"
     }, 
-    "samsho2": {
-      "name": "Samurai Shodown II / Shin Samurai Spirits - Haohmaru jigokuhen (NGM-063)(NGH-063)"
+    "devilw": {
+      "name": "Devil World"
     }, 
     "vulgus": {
       "name": "Vulgus (set 1)"
@@ -7433,11 +9418,11 @@
     "crospang": {
       "name": "Cross Pang"
     }, 
-    "fbfrenzy": {
-      "name": "Football Frenzy (NGM-034)(NGH-034)"
+    "wondl96": {
+      "name": "Wonder League '96 (Korea)"
     }, 
-    "zerowing": {
-      "name": "Zero Wing (2P set)"
+    "utoukond": {
+      "name": "Ultra Toukon Densetsu (Japan)"
     }, 
     "dietgo": {
       "name": "Diet Go Go (Euro v1.1 1992.09.26)"
@@ -7445,11 +9430,14 @@
     "ragnagrd": {
       "name": "Ragnagard / Shin-Oh-Ken"
     }, 
-    "kicknrun": {
-      "name": "Kick and Run (World)"
+    "excelsr": {
+      "name": "Excelsior (set 1)"
     }, 
-    "suprmrio": {
-      "name": "Vs. Super Mario Bros. (set SM4-4 E)"
+    "hasamu": {
+      "name": "Hasamu (Japan)"
+    }, 
+    "pktgaldx": {
+      "name": "Pocket Gal Deluxe (Euro v3.00)"
     }, 
     "livequiz": {
       "name": "Live Quiz Show"
@@ -7460,8 +9448,8 @@
     "vigilant": {
       "name": "Vigilante (World, Rev E)"
     }, 
-    "kof99h": {
-      "name": "The King of Fighters '99 - Millennium Battle (NGH-2510)"
+    "cabal": {
+      "name": "Cabal (World, Joystick version)"
     }, 
     "tsamurai": {
       "name": "Samurai Nihon-Ichi (set 1)"
@@ -7472,32 +9460,50 @@
     "jackal": {
       "name": "Jackal (World, 8-way Joystick)"
     }, 
-    "pcktgal": {
-      "name": "Pocket Gal (Japan)"
+    "bottom9": {
+      "name": "Bottom of the Ninth (version T)"
     }, 
     "megablst": {
       "name": "Mega Blast (World)"
     }, 
-    "btime": {
-      "name": "Burger Time (Data East set 1)"
+    "punkshot": {
+      "name": "Punk Shot (US 4 Players)"
+    }, 
+    "jrpacman": {
+      "name": "Jr. Pac-Man (11/9/83)"
     }, 
     "shadfrce": {
       "name": "Shadow Force (US Version 2)"
     }, 
-    "elvactr": {
-      "name": "Elevator Action Returns (Ver 2.2O 1995/02/20)"
+    "ozon1": {
+      "name": "Ozon I"
+    }, 
+    "ddsomu": {
+      "name": "Dungeons & Dragons: Shadow over Mystara (USA 960619)"
     }, 
     "solfigtr": {
       "name": "Solitary Fighter (World)"
     }, 
+    "finalb": {
+      "name": "Final Blow (World)"
+    }, 
+    "orbs": {
+      "name": "Orbs (10/7/94 prototype?)"
+    }, 
     "grdnstrm": {
       "name": "Guardian Storm (horizontal, not encrypted)"
     }, 
-    "wboy": {
-      "name": "Wonder Boy (set 1, 315-5177)"
+    "bucky": {
+      "name": "Bucky O'Hare (ver EAB)"
+    }, 
+    "kof95": {
+      "name": "The King of Fighters '95 (NGM-084)"
     }, 
     "theroes": {
       "name": "Thunder Heroes"
+    }, 
+    "avsp": {
+      "name": "Alien vs. Predator (Euro 940520)"
     }, 
     "pow": {
       "name": "P.O.W. - Prisoners of War (US version 1)"
@@ -7505,26 +9511,38 @@
     "mslug4pl": {
       "name": "mslug4pl"
     }, 
-    "sbrkout": {
-      "name": "Super Breakout (rev 04)"
+    "sidepcktb2": {
+      "name:": "Side Pocket 2"
     }, 
     "sf2rb2": {
       "name": "Street Fighter II': Champion Edition (Rainbow, bootleg, set 2)"
     }, 
-    "svcsplus": {
-      "name": "SNK vs. Capcom - SVC Chaos Super Plus (bootleg)"
+    "soldam": {
+      "name": "Soldam"
     }, 
     "mikie": {
       "name": "Mikie"
     }, 
-    "mcatadv": {
-      "name": "Magical Cat Adventure"
+    "rthun2": {
+      "name": "Rolling Thunder 2"
     }, 
-    "mspacmbe": {
-      "name": "Ms. Pac-Man (bootleg, encrypted)"
+    "xmvsf": {
+      "name": "X-Men Vs. Street Fighter (Euro 961004)"
+    }, 
+    "bowlrama": {
+      "name": "Bowl-O-Rama"
+    }, 
+    "gradius3": {
+      "name": "Gradius III (World, program code R)"
     }, 
     "osman": {
       "name": "Osman (World)"
+    }, 
+    "fantznta": {
+      "name:": "Dreamland"
+    }, 
+    "earthjkr": {
+      "name": "U.N. Defense Force: Earth Joker (Japan)"
     }, 
     "fixeight": {
       "name": "FixEight (Europe)"
@@ -7550,11 +9568,23 @@
     "demonwld": {
       "name": "Demon's World / Horror Story (set 1)"
     }, 
+    "cannonbp": {
+      "name": "Cannon Ball (Pac-Man Hardware)"
+    }, 
     "powerin4": {
       "name": "powerin4"
     }, 
+    "hellfire": {
+      "name": "Hellfire (2P set)"
+    }, 
+    "keroppi": {
+      "name": "Kero Kero Keroppi's Let's Play Together (USA, Version 2.0)"
+    }, 
     "unsquad": {
       "name": "U.N. Squadron (USA)"
+    }, 
+    "hcastlee": {
+      "name": "Haunted Castle (version E)"
     }, 
     "wizdfire": {
       "name": "Wizard Fire (Over Sea v2.1)"
@@ -7571,8 +9601,8 @@
     "sunaq": {
       "name": "SunA Quiz 6000 Academy (940620-6)"
     }, 
-    "rthun2": {
-      "name": "Rolling Thunder 2"
+    "scessjoe": {
+      "name": "Success Joe (World)"
     }, 
     "mshvsfj": {
       "name": "Marvel Super Heroes Vs. Street Fighter (Japan 970707)"
@@ -7586,6 +9616,9 @@
     "kof02ice": {
       "name": "kof02ice"
     }, 
+    "kncljoea": {
+      "name": "Knuckle Joe (set 2)"
+    }, 
     "puyo": {
       "name": "Puyo Puyo (World)"
     }, 
@@ -7597,6 +9630,9 @@
     }, 
     "dogyuun": {
       "name": "Dogyuun"
+    }, 
+    "hippodrm": {
+      "name": "Hippodrome (US)"
     }, 
     "moonwar": {
       "name": "Moonwar"
@@ -7619,8 +9655,8 @@
     "pkunwar": {
       "name": "Penguin-Kun Wars (US)"
     }, 
-    "kof02pl": {
-      "name": "kof02pl"
+    "ssideki": {
+      "name": "Super Sidekicks / Tokuten Ou"
     }, 
     "ctomaday": {
       "name": "Captain Tomaday"
@@ -7628,11 +9664,29 @@
     "bbmanw": {
       "name": "Bomber Man World / New Dyna Blaster - Global Quest"
     }, 
-    "pooyan": {
-      "name": "Pooyan"
+    "pgoal": {
+      "name": "Pleasure Goal / Futsal - 5 on 5 Mini Soccer (NGM-219)"
     }, 
-    "robowres": {
-      "name": "Robo Wres 2001"
+    "springer": {
+      "name": "Springer"
+    }, 
+    "msbingo": {
+      "name": "Miss Bingo"
+    }, 
+    "galaga3": {
+      "name": "Galaga 3 (GP3 rev. D)"
+    }, 
+    "mwarr": {
+      "name": "Mighty Warriors"
+    }, 
+    "xsleena": {
+      "name": "Xain'd Sleena (World)"
+    }, 
+    "victroad": {
+      "name": "Victory Road"
+    }, 
+    "kof99pf": {
+      "name": "kof99pf"
     }, 
     "samsh5sp": {
       "name": "Samurai Shodown V Special / Samurai Spirits Zero Special (NGM-2720)"
@@ -7643,8 +9697,8 @@
     "sdfight": {
       "name": "SD Fighters (Korea)"
     }, 
-    "spinmasth": {
-      "name": "spinmasth"
+    "hattrick": {
+      "name": "Hat Trick"
     }, 
     "killbldp": {
       "name": "The Killing Blade Plus (China, ver. 300)"
@@ -7661,8 +9715,14 @@
     "fatfury1": {
       "name": "Fatal Fury - King of Fighters / Garou Densetsu - shukumei no tatakai (NGM-033)(NGH-033)"
     }, 
-    "phoenix": {
-      "name": "Phoenix (Amstar)"
+    "ryukyu": {
+      "name": "RyuKyu (Japan, FD1094 317-5023)"
+    }, 
+    "starjack": {
+      "name": "Star Jacker (Sega)"
+    }, 
+    "hyprduel": {
+      "name": "Hyper Duel (Japan set 1)"
     }, 
     "blockout": {
       "name": "Block Out (set 1)"
@@ -7679,14 +9739,20 @@
     "pengo2": {
       "name": "Pengo (set 2)"
     }, 
+    "welltris": {
+      "name": "Welltris (World?, 2 players)"
+    }, 
     "redeartn": {
       "name": "redeartn"
     }, 
     "shinobi": {
       "name": "Shinobi (set 6, System 16A, unprotected)"
     }, 
-    "suprtrio": {
-      "name": "Super Trio"
+    "sbsgomo": {
+      "name": "Space Battle Ship Gomorrah"
+    }, 
+    "hachoo": {
+      "name": "Hachoo!"
     }, 
     "bonzeadv": {
       "name": "Bonze Adventure (World, Newer)"
@@ -7697,20 +9763,29 @@
     "shaolins": {
       "name": "Shao-lin's Road (set 1)"
     }, 
+    "gaunt2": {
+      "name": "Gauntlet II"
+    }, 
+    "drgpunch": {
+      "name": "Dragon Punch (Japan)"
+    }, 
     "orlegend": {
       "name": "Oriental Legend / Xi You Shi E Zhuan (ver. 126)"
     }, 
-    "roboarmy": {
-      "name": "Robo Army"
+    "popbingo": {
+      "name": "Pop Bingo"
     }, 
-    "mgcrystlo": {
-      "name": "Magical Crystals (World, 91/12/10)"
+    "mspacmbe": {
+      "name": "Ms. Pac-Man (bootleg, encrypted)"
     }, 
     "slammast": {
       "name": "Saturday Night Slam Masters (World 930713)"
     }, 
     "gururin": {
       "name": "Gururin"
+    }, 
+    "armwrest": {
+      "name": "Arm Wrestling"
     }, 
     "tophuntr": {
       "name": "Top Hunter - Roddy & Cathy (NGM-046)"
@@ -7721,11 +9796,14 @@
     "metlhawk": {
       "name": "Metal Hawk (Rev C)"
     }, 
+    "gwarrior": {
+      "name": "Galactic Warriors"
+    }, 
     "sexyparo": {
       "name": "Sexy Parodius (ver JAA)"
     }, 
-    "dquizgo": {
-      "name": "Date Quiz Go Go (Korea)"
+    "panicstr": {
+      "name": "Panic Street (Japan)"
     }, 
     "vanvan": {
       "name": "Van-Van Car"
@@ -7733,8 +9811,11 @@
     "hvysmsh": {
       "name": "Heavy Smash (Europe version -2)"
     }, 
-    "shootbul": {
-      "name": "Shoot the Bull"
+    "megadon": {
+      "name": "Megadon"
+    }, 
+    "garyoret": {
+      "name": "Garyo Retsuden (Japan)"
     }, 
     "kncljoe": {
       "name": "Knuckle Joe (set 1)"
@@ -7742,35 +9823,38 @@
     "bkraidj": {
       "name": "bkraidj"
     }, 
-    "strhoop": {
-      "name": "Street Hoop / Street Slam / Dunk Dream (DEM-004)(DEH-004)"
+    "tetris": {
+      "name": "Tetris (set 4, Japan, System 16A, FD1094 317-0093)"
     }, 
     "dondokod": {
       "name": "Don Doko Don (World)"
     }, 
-    "magdrop2": {
-      "name": "Magical Drop II"
+    "horekid": {
+      "name": "Kid no Hore Hore Daisakusen"
+    }, 
+    "hopmappy": {
+      "name": "Hopping Mappy"
     }, 
     "kof96eh": {
       "name": "kof96eh"
     }, 
-    "xmvsfr1": {
-      "name": "X-Men Vs. Street Fighter (Euro 960910)"
+    "devstors": {
+      "name": "Devastators (ver. Z)"
     }, 
     "arknoid2": {
       "name": "Arkanoid - Revenge of DOH (World)"
     }, 
-    "avsp": {
-      "name": "Alien vs. Predator (Euro 940520)"
+    "msgundam": {
+      "name": "Mobile Suit Gundam"
     }, 
-    "rodland": {
-      "name": "Rod-Land (World)"
+    "toki": {
+      "name": "Toki (World, set 1)"
     }, 
     "bssoccer": {
       "name": "Back Street Soccer (KRB-0031 PCB)"
     }, 
-    "samsho3h": {
-      "name": "Samurai Shodown III / Samurai Spirits - Zankurou Musouken (NGH-087)"
+    "midres": {
+      "name": "Midnight Resistance (World)"
     }, 
     "choko": {
       "name": "Janpai Puzzle Choukou (Japan 010820)"
@@ -7778,14 +9862,26 @@
     "gtmr2a": {
       "name": "Mille Miglia 2: Great 1000 Miles Rally (95/04/04)"
     }, 
-    "metamrph": {
-      "name": "Metamorphic Force (ver EAA)"
+    "lethalth": {
+      "name": "Lethal Thunder (World)"
     }, 
     "chinagat": {
       "name": "China Gate (US)"
     }, 
+    "bioatack": {
+      "name": "Bio Attack"
+    }, 
+    "rotdnd": {
+      "name:": "Dyna Brothers 2"
+    }, 
     "ssf2xj": {
       "name": "Super Street Fighter II X: Grand Master Challenge (Japan 940223)"
+    }, 
+    "fightfev": {
+      "name": "Fight Fever (set 1)"
+    }, 
+    "silvmil": {
+      "name": "Silver Millennium"
     }, 
     "puzznic": {
       "name": "Puzznic (World)"
@@ -7793,17 +9889,23 @@
     "cookbib3": {
       "name": "Cookie & Bibi 3"
     }, 
-    "cookbib2": {
-      "name": "Cookie & Bibi 2"
+    "knightsb2": {
+      "name:": "Knights of the Round 2"
     }, 
-    "flstory": {
-      "name": "The FairyLand Story"
+    "dockman": {
+      "name": "Dock Man"
+    }, 
+    "horizon": {
+      "name": "Horizon (Irem)"
     }, 
     "berlwall": {
       "name": "The Berlin Wall"
     }, 
-    "panicbom": {
-      "name": "Panic Bomber"
+    "keroppij": {
+      "name": "Kero Kero Keroppi no Issyoni Asobou (Japan)"
+    }, 
+    "ssprint": {
+      "name": "Super Sprint (rev 4)"
     }, 
     "fantasia": {
       "name": "Fantasia (940429 PCB, set 1)"
@@ -7817,8 +9919,8 @@
     "kyros": {
       "name": "Kyros"
     }, 
-    "diggerma": {
-      "name": "Digger Man (prototype)"
+    "lemmings": {
+      "name": "Lemmings (US prototype)"
     }, 
     "wwfsstaru": {
       "name": "WWF Superstars (US, Newer)"
@@ -7829,8 +9931,17 @@
     "pnickj": {
       "name": "Pnickies (Japan 940608)"
     }, 
-    "chukatai": {
-      "name": "Chuka Taisen (World)"
+    "spec2kh": {
+      "name": "Spectrum 2000 (horizontal, buggy) (Europe)"
+    }, 
+    "armwar": {
+      "name": "Armored Warriors (Euro 941024)"
+    }, 
+    "plusalph": {
+      "name": "Plus Alpha"
+    }, 
+    "fncywld": {
+      "name": "Fancy World - Earth of Crisis"
     }, 
     "aliens": {
       "name": "Aliens (World set 1)"
@@ -7850,17 +9961,32 @@
     "tmht22pe": {
       "name": "Teenage Mutant Hero Turtles - Turtles in Time (2 Players ver EBA)"
     }, 
-    "bublbobl": {
-      "name": "Bubble Bobble (Japan, Ver 0.1)"
+    "esckidsj": {
+      "name": "Escape Kids (Japan, 2 Players)"
+    }, 
+    "ffight": {
+      "name": "Final Fight (World, set 1)"
     }, 
     "ssridersabd": {
       "name": "Sunset Riders (2 Players ver ABD)"
     }, 
+    "tndrcade": {
+      "name": "Thundercade / Twin Formation"
+    }, 
+    "rbff1a": {
+      "name": "Real Bout Fatal Fury / Real Bout Garou Densetsu (bug fix revision)"
+    }, 
+    "ohmygod": {
+      "name": "Oh My God! (Japan)"
+    }, 
     "tpgolf": {
       "name": "Top Player's Golf (NGM-003)(NGH-003)"
     }, 
-    "aodk": {
-      "name": "Aggressors of Dark Kombat / Tsuukai GANGAN Koushinkyoku (ADM-008)(ADH-008)"
+    "hopprobo": {
+      "name": "Hopper Robo"
+    }, 
+    "snapjack": {
+      "name": "Snap Jack"
     }, 
     "esprade": {
       "name": "ESP Ra.De. (International, Ver. 98/04/22)"
@@ -7868,11 +9994,14 @@
     "kageki": {
       "name": "Kageki (US)"
     }, 
-    "ssideki": {
-      "name": "Super Sidekicks / Tokuten Ou"
+    "kof02pl": {
+      "name": "kof02pl"
     }, 
     "psychos": {
       "name": "Psycho Soldier (US)"
+    }, 
+    "quizkofk": {
+      "name": "Quiz King of Fighters (Korean release)"
     }, 
     "jumpkids": {
       "name": "Jump Kids"
@@ -7889,17 +10018,23 @@
     "mmatrix": {
       "name": "Mars Matrix: Hyper Solid Shooting (USA 000412)"
     }, 
-    "karianx": {
-      "name": "Karian Cross (Rev. 1.0)"
+    "karnovr": {
+      "name": "Karnov's Revenge / Fighter's History Dynamite"
     }, 
-    "tnzs": {
-      "name": "The NewZealand Story (World, new version) (newer PCB)"
+    "wbmlb": {
+      "name": "Wonder Boy in Monster Land (English bootleg set 1)"
     }, 
-    "dynablst": {
-      "name": "Dynablaster / Bomber Man"
+    "sectionz": {
+      "name": "Section Z (set 1)"
     }, 
-    "fightfev": {
-      "name": "Fight Fever (set 1)"
+    "matrimnd": {
+      "name:": "Gouketsuji Ichizoku-Dou marriage"
+    }, 
+    "skyadvnt": {
+      "name": "Sky Adventure (World)"
+    }, 
+    "gyruss": {
+      "name": "Gyruss"
     }, 
     "twinspri": {
       "name": "Twinkle Star Sprites"
@@ -7913,11 +10048,14 @@
     "joemacr": {
       "name": "Joe & Mac Returns (World, Version 1.1, 1994.05.27)"
     }, 
+    "dimahoo": {
+      "name": "Dimahoo (Euro 000121)"
+    }, 
     "gberet": {
       "name": "Green Beret"
     }, 
-    "actfancr": {
-      "name": "Act-Fancer Cybernetick Hyper Weapon (World revision 2)"
+    "timescan": {
+      "name": "Time Scanner (set 2, System 16B)"
     }, 
     "kof97": {
       "name": "The King of Fighters '97 (NGM-2320)"
@@ -7925,11 +10063,17 @@
     "kof94": {
       "name": "The King of Fighters '94 (NGM-055)(NGH-055)"
     }, 
-    "kof95": {
-      "name": "The King of Fighters '95 (NGM-084)"
+    "lans2k4d": {
+      "name": "lans2k4d"
     }, 
     "batman": {
       "name": "Batman"
+    }, 
+    "msh": {
+      "name": "Marvel Super Heroes (Euro 951024)"
+    }, 
+    "berabohm": {
+      "name": "Beraboh Man (Japan, Rev C)"
     }, 
     "gunnail": {
       "name": "GunNail (28th May. 1992)"
@@ -7937,8 +10081,20 @@
     "turbofrc": {
       "name": "Turbo Force (old revision)"
     }, 
+    "martmast": {
+      "name": "Martial Masters (ver. 104, 102, 102US)"
+    }, 
+    "mystston": {
+      "name": "Mysterious Stones - Dr. John's Adventure"
+    }, 
     "daioha": {
       "name": "Daioh (earlier)"
+    }, 
+    "skyalert": {
+      "name": "Sky Alert"
+    }, 
+    "hsf2d": {
+      "name": "Hyper Street Fighter II: The Anniversary Edition (Asia 040202 Phoenix Edition) (bootleg)"
     }, 
     "bombjack": {
       "name": "Bomb Jack (set 1)"
@@ -7952,8 +10108,11 @@
     "lastduel": {
       "name": "Last Duel (US New Ver.)"
     }, 
-    "mtwins": {
-      "name": "Mega Twins (World 900619)"
+    "toryumon": {
+      "name": "Toryumon"
+    }, 
+    "ddtod": {
+      "name": "Dungeons & Dragons: Tower of Doom (Euro 940412)"
     }, 
     "ldrun": {
       "name": "Lode Runner (set 1)"
@@ -7964,20 +10123,44 @@
     "gangwars": {
       "name": "Gang Wars"
     }, 
+    "tattass": {
+      "name": "Tattoo Assassins (US prototype)"
+    }, 
+    "calipso": {
+      "name": "Calipso"
+    }, 
     "rygar": {
       "name": "Rygar (US set 1)"
+    }, 
+    "punisher": {
+      "name": "The Punisher (World 930422)"
     }, 
     "dinoeh": {
       "name": "dinoeh"
     }, 
+    "overtop": {
+      "name": "Over Top"
+    }, 
     "zupapa": {
       "name": "Zupapa!"
+    }, 
+    "mp_col3": {
+      "name": "Columns III (Mega Play)"
     }, 
     "digdug": {
       "name": "Dig Dug (rev 2)"
     }, 
-    "pitfight": {
-      "name": "Pit Fighter (rev 9)"
+    "birdtry": {
+      "name": "Birdie Try (Japan)"
+    }, 
+    "mbombrd": {
+      "name": "Muscle Bomber Duo: Ultimate Team Battle (World 931206)"
+    }, 
+    "kovshy": {
+      "name": "kovshy"
+    }, 
+    "stdragon": {
+      "name": "Saint Dragon (set 1)"
     }, 
     "gunsmoke": {
       "name": "Gun.Smoke (World, 851115)"
@@ -7991,8 +10174,14 @@
     "ddragon2": {
       "name": "Double Dragon II - The Revenge (World)"
     }, 
-    "hsf2d": {
-      "name": "Hyper Street Fighter II: The Anniversary Edition (Asia 040202 Phoenix Edition) (bootleg)"
+    "19xx": {
+      "name": "19XX: The War Against Destiny (USA 951207)"
+    }, 
+    "korokoro": {
+      "name": "Koro Koro Quest (Japan)"
+    }, 
+    "dolmen": {
+      "name": "Dolmen"
     }, 
     "xmen2pa": {
       "name": "X-Men (2 Players ver AAA)"
@@ -8009,17 +10198,26 @@
     "pulirula": {
       "name": "PuLiRuLa (World)"
     }, 
-    "sengok3h": {
-      "name": "sengok3h"
+    "mf_flip": {
+      "name": "Flip & Flop (Max-A-Flex)"
     }, 
-    "gemini": {
-      "name": "Gemini Wing (Japan)"
+    "mtwins": {
+      "name": "Mega Twins (World 900619)"
     }, 
-    "qix": {
-      "name": "Qix (Rev 2)"
+    "smbomb": {
+      "name": "Super Muscle Bomber: The International Blowout (Japan 940831)"
     }, 
-    "sengok3n": {
-      "name": "sengok3n"
+    "gunfront": {
+      "name": "Gun & Frontier (World)"
+    }, 
+    "suprtrio": {
+      "name": "Super Trio"
+    }, 
+    "stratof": {
+      "name": "Raiga - Strato Fighter (US)"
+    }, 
+    "viofight": {
+      "name": "Violence Fight (World)"
     }, 
     "djboy": {
       "name": "DJ Boy (set 1)"
@@ -8030,20 +10228,23 @@
     "mustang": {
       "name": "US AAF Mustang (25th May. 1990)"
     }, 
-    "gunmast": {
-      "name": "Gun Master"
+    "mugsmash": {
+      "name": "Mug Smashers"
     }, 
     "metalb": {
       "name": "Metal Black (World)"
     }, 
-    "ufosensi": {
-      "name": "Ufo Senshi Yohko Chan (MC-8123, 317-0064)"
+    "woodpek": {
+      "name:": "Woodpecker"
+    }, 
+    "spcinv95": {
+      "name": "Space Invaders '95: The Attack Of Lunar Loonies (Ver 2.5O 1995/06/14)"
     }, 
     "riot": {
       "name": "Riot"
     }, 
-    "ecofghtr": {
-      "name": "Eco Fighters (World 931203)"
+    "saturnzi": {
+      "name": "Saturn"
     }, 
     "hardhea2": {
       "name": "Hard Head 2 (v2.0)"
@@ -8051,11 +10252,14 @@
     "doubledp": {
       "name": "doubledp"
     }, 
-    "mystston": {
-      "name": "Mysterious Stones - Dr. John's Adventure"
+    "arkarea": {
+      "name": "Ark Area"
     }, 
     "omegaf": {
       "name": "Omega Fighter"
+    }, 
+    "slyspy": {
+      "name": "Sly Spy (US revision 3)"
     }, 
     "blandia": {
       "name": "Blandia"
@@ -8063,8 +10267,8 @@
     "sfz3j": {
       "name": "Street Fighter Zero 3 (Japan 980904)"
     }, 
-    "jrpacman": {
-      "name": "Jr. Pac-Man (11/9/83)"
+    "drgnmst": {
+      "name": "Dragon Master"
     }, 
     "truxton": {
       "name": "Truxton / Tatsujin"
@@ -8072,11 +10276,20 @@
     "bublboblr": {
       "name": "Bubble Bobble (US, Ver 5.1)"
     }, 
-    "hellfire": {
-      "name": "Hellfire (2P set)"
+    "vmetal": {
+      "name": "Varia Metal"
     }, 
-    "logicpr2": {
-      "name": "Logic Pro 2 (Japan)"
+    "chopliftbl": {
+      "name": "Choplifter (bootleg)"
+    }, 
+    "qix": {
+      "name": "Qix (Rev 2)"
+    }, 
+    "milliped": {
+      "name": "Millipede"
+    }, 
+    "4enraya": {
+      "name": "4 En Raya (set 1)"
     }, 
     "spelunkr": {
       "name": "Spelunker"
@@ -8087,8 +10300,20 @@
     "mslug6nd": {
       "name": "mslug6nd"
     }, 
-    "pengo": {
-      "name": "Pengo (set 1 rev c)"
+    "rungun": {
+      "name": "Run and Gun (ver EAA 1993 10.8)"
+    }, 
+    "wbdeluxe": {
+      "name": "Wonder Boy Deluxe"
+    }, 
+    "dremshpr": {
+      "name": "Dream Shopper"
+    }, 
+    "wb32": {
+      "name": "Wonder Boy III - Monster Lair (set 2, Japan, System 16B, FD1094 317-0085)"
+    }, 
+    "wb33": {
+      "name": "Wonder Boy III - Monster Lair (set 3, World, System 16B, FD1094 317-0089)"
     }, 
     "amidar": {
       "name": "Amidar"
@@ -8099,14 +10324,23 @@
     "kof98c": {
       "name": "kof98c"
     }, 
+    "palamed": {
+      "name": "Palamedes (Japan)"
+    }, 
     "gtmrusa": {
       "name": "Great 1000 Miles Rally: U.S.A Version! (94/09/06)"
     }, 
     "cninja": {
       "name": "Caveman Ninja (World ver 4)"
     }, 
+    "nkdodgeb": {
+      "name": "Nekketsu Koukou Dodgeball Bu (Japan, bootleg)"
+    }, 
     "wb3": {
       "name": "Wonder Boy III - Monster Lair (set 6, World, System 16B, 8751 317-0098)"
+    }, 
+    "phozon": {
+      "name": "Phozon (Japan)"
     }, 
     "darkseal": {
       "name": "Dark Seal (World revision 3)"
@@ -8117,11 +10351,14 @@
     "pbobbl2n": {
       "name": "Puzzle Bobble 2 / Bust-A-Move Again (Neo-Geo)"
     }, 
-    "kidniki": {
-      "name": "Kid Niki - Radical Ninja (World)"
+    "wboy": {
+      "name": "Wonder Boy (set 1, 315-5177)"
     }, 
     "s1945": {
       "name": "Strikers 1945 (World)"
+    }, 
+    "twinadv": {
+      "name": "Twin Adventure (World)"
     }, 
     "lasso": {
       "name": "Lasso"
@@ -8135,53 +10372,71 @@
     "chinatwn": {
       "name": "China Town (Japan)"
     }, 
-    "fantzone": {
-      "name": "Fantasy Zone (Rev A, unprotected)"
+    "pcktgal": {
+      "name": "Pocket Gal (Japan)"
     }, 
-    "wrofaero": {
-      "name": "War of Aero - Project MEIOU"
+    "oisipuzl": {
+      "name": "Oishii Puzzle Ha Irimasenka"
     }, 
-    "dimahoo": {
-      "name": "Dimahoo (Euro 000121)"
+    "midresu": {
+      "name": "Midnight Resistance (US)"
     }, 
-    "zedblade": {
-      "name": "Zed Blade / Operation Ragnarok"
+    "sfa3u": {
+      "name": "Street Fighter Alpha 3 (USA 980904)"
+    }, 
+    "sengok3h": {
+      "name": "sengok3h"
     }, 
     "mp_sor2": {
       "name": "Streets of Rage II (Mega Play)"
     }, 
-    "toryumon": {
-      "name": "Toryumon"
+    "gogomile": {
+      "name": "Susume! Mile Smile / Go Go! Mile Smile (newer)"
     }, 
-    "gondo": {
-      "name": "Gondomania (US)"
+    "spec2k": {
+      "name": "Spectrum 2000 (vertical)"
     }, 
-    "logicpro": {
-      "name": "Logic Pro (Japan)"
+    "kof99h": {
+      "name": "The King of Fighters '99 - Millennium Battle (NGH-2510)"
     }, 
-    "overtop": {
-      "name": "Over Top"
+    "rshark": {
+      "name": "R-Shark"
+    }, 
+    "pooyan": {
+      "name": "Pooyan"
     }, 
     "searchey": {
       "name": "Search Eye (English / Korean / Japanese / Italian)"
     }, 
-    "columns": {
-      "name": "Columns (World)"
+    "twinkle": {
+      "name": "Twinkle"
     }, 
-    "dsoccr94": {
-      "name": "Dream Soccer '94 (World, M107 hardware)"
+    "cltchitr": {
+      "name": "Clutch Hitter (US, FD1094 317-0176)"
     }, 
-    "hardhead": {
-      "name": "Hard Head"
+    "dyger": {
+      "name": "Dyger (Korea set 1)"
     }, 
-    "ffight": {
-      "name": "Final Fight (World, set 1)"
+    "gmahou": {
+      "name": "Great Mahou Daisakusen (Japan 000121)"
     }, 
-    "kotm": {
-      "name": "King of the Monsters (set 1)"
+    "1943kai": {
+      "name": "1943 Kai: Midway Kaisen (Japan)"
+    }, 
+    "vulcan": {
+      "name": "Vulcan Venture (New)"
+    }, 
+    "aodk": {
+      "name": "Aggressors of Dark Kombat / Tsuukai GANGAN Koushinkyoku (ADM-008)(ADH-008)"
+    }, 
+    "kof96": {
+      "name": "The King of Fighters '96 (NGM-214)"
     }, 
     "goal92": {
       "name": "Goal! '92"
+    }, 
+    "neomrdo": {
+      "name": "Neo Mr. Do!"
     }, 
     "sfiiin": {
       "name": "Street Fighter III: New Generation (Asia 970204, NO CD, bios set 1)"
@@ -8189,8 +10444,8 @@
     "trally": {
       "name": "Thrash Rally (ALM-003)(ALH-003)"
     }, 
-    "neomrdo": {
-      "name": "Neo Mr. Do!"
+    "sailormn": {
+      "name": "Pretty Soldier Sailor Moon (Ver. 95/03/22B, Europe)"
     }
   }, 
   "fqas": [
@@ -8237,19 +10492,19 @@
     {
       "text": "\n\t<p>\t<a href=\"https://github.com/mengxipeng1122/pb4xjammadrv\"  >pb4xjammadrv github</a>\n  ", 
       "title": "jamma drv of pb4x boards"
-    },
+    }, 
     {
       "text": "\n\t<p>\t<a href=\"pbbox_manual_105x142mm.pdf\"  >Pandora's box manual(.pdf)</a>\n  ", 
       "title": "Pandora's box manual"
-    },
+    }, 
     {
       "text": "\n\t<p>The information is only work for this board\t<img src=\"img/pb4_blue_pcb.jpg\" />\n  ", 
       "title": "Which board is working?"
-    },
+    }, 
     {
       "text": "\n \t<p><h2><a href=\"https://pan.baidu.com/s/1geFUqzh\">Link for Baidu Yunpan</a></h2>\n \t\t\t<p>Because baidu yunpan file size limitition, all files should be of size less than 4G, so i split  all images file to 2G files and put them in a sperate directory .  \t<p> There is a great client for Baidu YunPan \t<p>      <a href=\"https://github.com/sdvcrx/pan-baidu-download\">pan-baidu-download</a> \t<p>Once you download all splited files for a image file , you can merge all file with command \t<p>      type x* >  <image file name >   (Windows OS ) \t<p>      cat  x* >  <image file name >   (Linux   OS ) \t<p><h2><a href=\"https://mega.nz/#F!F0NA1JSC!QkYmP96H8gJHcDoND0wBDg\">Link for Mega</a></h2>\n \t<p>    It seems my country has blocked this website, so the connection to this website is not stable, so files in this website may be old ", 
       "title": "Where can I download image files?"
-    },
+    }, 
     {
       "text": " <a href=\"https://sourceforge.net/projects/win32diskimager/\">Win32 Disk Imager</a> (Windows OS) \t<p>      dd command (Linux OS) ", 
       "title": "How to burn image file to TF card?"
@@ -8267,9 +10522,9 @@
     {
       "link": "https://www.twitter.com/meng_xi_peng", 
       "icon": "fa-twitter"
-    },
+    }, 
     {
-      "link": "https://m.youtube.com/watch?sns=tw&list=PLAfsbj_OAplxgSB8UqoyMCc3Z3lr06wPA&v=KWt5diGvr6Y",
+      "link": "https://m.youtube.com/watch?sns=tw&list=PLAfsbj_OAplxgSB8UqoyMCc3Z3lr06wPA&v=KWt5diGvr6Y", 
       "icon": "fa-youtube"
     }
   ]
