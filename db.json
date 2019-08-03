@@ -12086,14 +12086,9 @@
   ], 
   "shops": [
     {
-      "link": "http://www.ebay.com/usr/wini-store", 
+      "link": "https://www.ebay.com/itm/143343577344", 
       "platform": "eBay", 
       "title": "wini-store"
-    }, 
-    {
-      "link": "http://www.ebay.com/usr/buyit1353", 
-      "platform": "eBay", 
-      "title": "buyit1353"
-    }
+    } 
   ]
 }
