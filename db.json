@@ -17,6 +17,10 @@
       "link": "https://m.youtube.com/watch?sns=tw&list=PLAfsbj_OAplxgSB8UqoyMCc3Z3lr06wPA&v=KWt5diGvr6Y"
     },
     {
+      "icon": "fa-youtube", 
+      "link": "https://www.youtube.com/watch?v=r93XWoxCW_0&list=PLEjItTJG1YijFC0qekzGTJi5Uz1svhPgN"
+    },
+    {
       "icon": "fa-paypal", 
       "link": "https://www.paypal.com/paypalme2/pandoragames"
     }
